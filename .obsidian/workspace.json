@@ -8,37 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "420f03aad3f23b7d",
+            "id": "4c243854ca745cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrices.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de51cb49578a7778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sommaire.md",
+                "file": "Relation binaire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a243380f52efbd5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrices.md",
+                "file": "Relation binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrices.md",
+                "file": "Relation binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrices.md"
+                "file": "Relation binaire.md"
               }
             }
           },
@@ -159,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,23 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "420f03aad3f23b7d",
+  "active": "4c243854ca745cbf",
   "lastOpenFiles": [
+    "Sommaire.md",
+    "Relation binaire.md",
+    "Equations différentielles linéaires.md",
+    "Fonctions trigonométriques.md",
+    "Nombres complexes.md",
+    "Ensembles.md",
+    "Sommes et produits.md",
+    "Matrices.md",
+    "Binôme de newton.md",
+    "Intégration.md",
+    "Logique.md",
+    "Fonctions hyperboliques.md",
+    "Dérivée.md",
+    "Applications linéaires.md",
+    "Raisonnements logiques.md",
+    "Pivot de Gauss.md",
+    "Systèmes linéaires.md",
+    "Média/Pasted image 20240710225930.png",
+    "Fonctions de la variable réelle.md",
+    "Média",
+    "Média/Pasted image 20240710181517.png",
+    "Preuves/Preuve GL est un groupe.md",
+    "Preuves",
     "README.md",
     "LICENSE",
-    "Sommaire.md",
-    "Matrices.md",
-    "Applications linéaires.md",
-    "triangle_de_pascal.png",
-    "Ensembles.md",
-    "Binôme de newton.md",
-    "Sommes et produits.md",
-    "Systèmes linéaires.md",
+    "Média/triangle_de_pascal.png",
     "Ensembles^partition.md",
-    "Pivot de Gauss.md",
-    "Raisonnements logiques.md",
     "Pasted image 20240708225521.png",
-    "Logique.md",
     "2024-07-08.md",
     "Sans titre.canvas",
     "Pasted image 20240708174859.png",

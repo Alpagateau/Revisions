@@ -1,17 +1,17 @@
-> Cette page est differente de la [[Logique]] et ne traite que des methodes de demonstrations
+> Cette page est différente de la [[Logique]] et ne traite que des méthodes de demonstrations
 
-Les quatres grands types de raisonnements logiques pour montrer $P \Rightarrow Q$ sont:
+Les quatre grands types de raisonnements logiques pour montrer $P \Rightarrow Q$ sont:
 - **Direct** : on suppose $P$ et on montre $Q$
 - **Par contraposition** : on suppose $\overline{Q}$ et on montre $\overline{P}$
 - **Disjonction de cas** : On suppose $P$ et on decompose chaque possibilités de $Q$
 - **Par l'absurde** : On suppose $P$ et $\overline{Q}$ puis on cherche une contradiction
 ## Analyse synthèse
 >**Analyse**
->On suppose $P$ et on deduit les propriété de la solutions
+>On suppose $P$ et on déduit les propriété de la solutions
 >**Synthèse**
->On verifie la possibilité de ces dites propriétés
+>On vérifie la possibilité de ces dites propriétés
 >**Conclusion**
->On donne les solutions au probleme
+>On donne les solutions au problème
 
 ## Principe de récurrence
 ### simple

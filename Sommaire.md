@@ -2,22 +2,22 @@
 - [x] Calculs algébriques
 	- [x] [[Sommes et produits]]
 	- [x] [[Systèmes linéaires]] 
-- [ ] Nombres complexes
-- [ ] Fonctions de la variable réelle
-- [ ] Equations différentielles linéaires
+- [x] [[Nombres complexes]] 
+- [x] [[Fonctions de la variable réelle]]
+- [ ] [[Equations différentielles linéaires]] TODO⏫ 
 - [ ] Algèbre général
 - [ ] Structure de groupes
 - [ ] Suites numériques
 - [ ] Polynômes
 - [ ] Continuité
-- [ ] [[Espace vectoriel]]
-- [ ] [[Applications linéaires]]
+- [ ] [[Espace vectoriel]]  
+- [x] [[Applications linéaires]] 
 - [ ] Fractions rationnelles
-- [ ] Integrations
+- [ ] [[Intégration]]
 - [ ] Comparaisons locale de fonctions
 - [ ] Calcul différentiels
-- [ ] Développement limités
+- [ ] [[Développement limités]]
 - [ ] Séries numériques
-- [x] [[Matrices]] TODO🔼 
+- [x] [[Matrices]] 
 - [ ] Déterminants
 - [ ] Probabilités
