@@ -21,7 +21,7 @@ $$
 Ker(f) = \{u, u \in E, f(u) = 0\} = f^{-1} (\{0_F \})
 $$
 
-On a que $Im(f)$ est un [[SEV]] de $F$ et $Ker(f)$ est un SEV de $E$. 
+On a que $Im(f)$ est un [[Espace vectoriel#^48cd3c|SEV]] de $F$ et $Ker(f)$ est un SEV de $E$. 
 
 > 1. $f$ est injective ssi $Ker(f) = \{0_E\}$
 > 2. $f$ est surjective ssi $Im(f) = F$

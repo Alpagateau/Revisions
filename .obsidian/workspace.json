@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c243854ca745cbf",
+            "id": "1dcf133cf43947a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation binaire.md",
+                "file": "Sommaire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "823c8fe97b8d4804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intégration discrète.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation binaire.md",
+                "file": "Intégration discrète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relation binaire.md",
+                "file": "Intégration discrète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relation binaire.md"
+                "file": "Intégration discrète.md"
               }
             }
           },
@@ -155,37 +169,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c243854ca745cbf",
+  "active": "823c8fe97b8d4804",
   "lastOpenFiles": [
+    "Intégration discrète.md",
     "Sommaire.md",
+    "Structure de groupes.md",
+    "Applications linéaires.md",
+    "Loi de composition.md",
+    "SEV.md",
+    "README.md",
+    "Binôme de newton.md",
+    "Cours",
+    "groupe.md",
+    "Espace vectoriel.md",
     "Relation binaire.md",
+    "Lambda-Calcul.md",
+    "Fonctions de la variable réelle.md",
     "Equations différentielles linéaires.md",
     "Fonctions trigonométriques.md",
     "Nombres complexes.md",
     "Ensembles.md",
     "Sommes et produits.md",
     "Matrices.md",
-    "Binôme de newton.md",
     "Intégration.md",
     "Logique.md",
     "Fonctions hyperboliques.md",
     "Dérivée.md",
-    "Applications linéaires.md",
     "Raisonnements logiques.md",
     "Pivot de Gauss.md",
     "Systèmes linéaires.md",
     "Média/Pasted image 20240710225930.png",
-    "Fonctions de la variable réelle.md",
     "Média",
     "Média/Pasted image 20240710181517.png",
-    "Preuves/Preuve GL est un groupe.md",
     "Preuves",
-    "README.md",
     "LICENSE",
     "Média/triangle_de_pascal.png",
-    "Ensembles^partition.md",
     "Pasted image 20240708225521.png",
-    "2024-07-08.md",
     "Sans titre.canvas",
     "Pasted image 20240708174859.png",
     "Pasted image 20240708174945.png"

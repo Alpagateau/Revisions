@@ -5,15 +5,15 @@
 - [x] [[Nombres complexes]] 
 - [x] [[Fonctions de la variable réelle]]
 - [ ] [[Equations différentielles linéaires]] TODO⏫ 
-- [ ] Algèbre général
-- [ ] Structure de groupes
+- [x] [[Relation binaire|Algèbre général]]
+- [x] [[Structure de groupes]]
 - [ ] Suites numériques
 - [ ] Polynômes
 - [ ] Continuité
-- [ ] [[Espace vectoriel]]  
+- [x] [[Espace vectoriel]]  
 - [x] [[Applications linéaires]] 
 - [ ] Fractions rationnelles
-- [ ] [[Intégration]]
+- [x] [[Intégration]]
 - [ ] Comparaisons locale de fonctions
 - [ ] Calcul différentiels
 - [ ] [[Développement limités]]
@@ -21,3 +21,4 @@
 - [x] [[Matrices]] 
 - [ ] Déterminants
 - [ ] Probabilités
+- [x] [[Lambda-Calcul]]
