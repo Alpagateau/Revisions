@@ -1,3 +1,4 @@
+#algebra 
 ## Définition
 On appel **loi de composition** ou **loi interne** une application de $E^2$ vers $E$. On la représente souvent par un symbole, par example $*$. On écrit alors $x*y$. 
 On dit que $*$ est **associative** si $(x*y)*z = x*(y*z)$.

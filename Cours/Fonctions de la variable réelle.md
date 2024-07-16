@@ -1,3 +1,4 @@
+#calculus
 ## Définition
 Une fonction (ou application) de $\mathbb{R}$ et $\mathbb{R}$ est une "boite" qui a chaque réel associe un autre réel. 
 

@@ -1,3 +1,4 @@
+#calculus 
 ## Cercle unitaire définitions
 Le **cercle unitaire** est un cercle centré en $(0,0)$ de rayon $1$. La position de chaque point sur ce cercle est défini par $(cos (a), sin (a))$ avec $a \in \mathbb{R}$. On défini la **tangente** de $a$ par $tan(a)=\frac{sin(x)}{cos(x)}$ ^b2d326
 

@@ -1,3 +1,4 @@
+#algebra 
 Montrons que $(GL(E), \circ)$ est un sous-groupe symétrique $(S_E,  \circ)$ (Groupe des bijections dans $E$)
 
 1. Le neutre de $(S_E,  \circ)$ est $Id_E$ est bijective et linéaire donc $Id_E \in GL(E)$.

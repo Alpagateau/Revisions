@@ -1,3 +1,4 @@
+#calculus 
 ## Définition
 Le **lambda-calcul** ou $\lambda$-calcul a été inventé par Alonzo Church, maître de thèse d'Alan Turing. La théorie de Church-Turing affirme que le $\lambda$-calcul est équivalent a une Machine de Turing, d'un point de vue mathématique. 
 Selon le $\lambda$-calcul, une [[Fonctions de la variable réelle|fonction]] est une boite noire, qui accepte une (ou plusieurs) entrée, la considère et produit une sortie. Il est impossible de voir ce qu'il se passe a l’intérieur des fonctions. Elles sont considéré comme "magique", dans le sens où aucun effet secondaire, ni aucune information autre que les entrées ne sont possibles. 

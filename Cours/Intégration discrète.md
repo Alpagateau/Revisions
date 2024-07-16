@@ -1,3 +1,4 @@
+#calculus 
 L'intégration discrete, ou numérique, est une technique d'approximation numérique des solutions d'[[Equations différentielles linéaires|equations différentielles]]. Il existe différentes méthodes. Dans ce document, $h$ est le pas. 
 
 ## Méthode d'Euler

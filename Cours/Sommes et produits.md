@@ -1,4 +1,4 @@
-#somme #produit #télescopage
+#arithmetic 
 ## Notations
 $\displaystyle \sum_{k=0}^n a_k$   ce note `\displaystyle \sum_{k=0}^n a_k`
 $\displaystyle \prod_{k=0}^n a_k$   ce note `\displaystyle \prod_{k=0}^n a_k`

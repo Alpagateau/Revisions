@@ -1,3 +1,4 @@
+#algebra
 Une application $f$ est dite linéaire ssi $f(\lambda u + v) = \lambda f(u) + f(v)$.
 L'[[Ensembles|ensemble]] des applications linéaire de $E$ vers $F$ se note $\mathcal{L}(E, F)$.
 Si $f$ est définie de $E$ vers $E$ , on l'appel un **endomorphisme**. L'ensemble des endomorphismes est noté $\mathcal{L}(E)$ 

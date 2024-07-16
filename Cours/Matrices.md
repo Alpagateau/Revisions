@@ -1,4 +1,4 @@
-tags : #matrices #application
+#algebra 
 ## Definition
 Une matrice est un tableau d'éléments, appelés coefficients, appartenant a un ensemble $\mathbb{K}$. On note $\mathcal{M}_{n,p}(\mathbb{K})$ l'ensemble des matrices de taille $n \times p$ avec $n$ le nombre de lignes et $p$ le nombres de colonnes. Si $p = n$, on peut noter $\mathcal{M}_n (\mathbb{K})$. On appel ces matrices **carrées** de taille $n$. Une matrice **carrée** est dite **diagonale** si seuls les coefficients de position $(i,j), i=j$ soient non nuls.  
 

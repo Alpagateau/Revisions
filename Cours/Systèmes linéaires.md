@@ -1,4 +1,4 @@
-#système #matrices 
+#algebra 
 ## Notation
 ##### Système
 $$
@@ -11,6 +11,7 @@ ix+jy+kz=l \space \space \space L_3
 \end{array}
 \right. 
 $$
+Il est aussi commun de représenter les systèmes par des [[Matrices]]
 
 ##### Operations élémentaires
 On note

@@ -1,3 +1,4 @@
+#algebra 
 ## Définition
 Un $\mathbb{K}$-espace vectoriel est un [[Structure de groupes|groupe]] commutatif tel que :
 $$

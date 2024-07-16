@@ -1,3 +1,4 @@
+#algebra 
 Le pivot de Gauss est une méthode qui permet de résoudre des [[Systèmes linéaires]] et d'inverser des [[Matrices]].
 
 ## Méthode

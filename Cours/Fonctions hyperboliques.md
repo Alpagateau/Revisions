@@ -1,3 +1,4 @@
+#calculus 
 Les **fonctions hyperboliques** sont des variantes réelles des [[Fonctions trigonométriques|fonctions trigonométriques]]. 
 - $ch(x) = \frac{e^x + e^{-x}}{2}$, est une fonction paire
 - $sh(x) = \frac{e^x - e^{-x}}{2}$, est une fonction impaire

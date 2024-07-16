@@ -14,10 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "Cours/Comparaisons locale de fonctions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d6fa0a8f463f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sommaire.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7575fa4cf6bc8a27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#somme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,36 +178,37 @@
   },
   "active": "afb3433449ab3641",
   "lastOpenFiles": [
-    "Sommaire.md",
-    "README.md",
-    "Média/Big_O_Complexity.png",
-    "Cours/Comparaisons locale de fonctions.md",
-    "Pasted image 20240716164121.png",
-    "Cours/Théorème des gendarmes.md",
     "Cours/Suites numériques.md",
+    "Sommaire.md",
+    "Cours/Théorème des gendarmes.md",
+    "Cours/Equations différentielles linéaires.md",
+    "Cours/Fonctions de la variable réelle.md",
+    "Cours/Comparaisons locale de fonctions.md",
+    "Preuves/Preuve GL est un groupe.md",
+    "Cours/Systèmes linéaires.md",
+    "Cours/Matrices.md",
+    "Cours/Structure de groupes.md",
+    "Cours/Sommes et produits.md",
+    "Cours/Relation binaire.md",
+    "Cours/Raisonnements logiques.md",
+    "Cours/Pivot de Gauss.md",
+    "Cours/Partie des réels.md",
+    "Cours/Nombres complexes.md",
+    "Cours/Loi de composition.md",
+    "Cours/Logique.md",
+    "Cours/Lambda-Calcul.md",
+    "Cours/Intégration discrète.md",
+    "Cours/Intégration.md",
+    "Cours/Fonctions trigonométriques.md",
+    "Cours/Fonctions hyperboliques.md",
+    "Cours/Espace vectoriel.md",
+    "Cours/Ensembles.md",
+    "Cours/Dérivée.md",
+    "Média/Big_O_Complexity.png",
+    "Pasted image 20240716164121.png",
     "Pasted image 20240716114957.png",
     "Média/graph_1.png",
-    "Cours/Relation binaire.md",
-    "Cours/Fonctions de la variable réelle.md",
-    "Cours/Partie des réels.md",
-    "Cours/Intégration discrète.md",
-    "Cours/Binôme de newton.md",
-    "2024-07-16.md",
-    "().md",
-    "Cours/Fonctions trigonométriques.md",
-    "Cours/Applications linéaires.md",
-    "Cours/Structure de groupes.md",
-    "Cours/Loi de composition.md",
-    "SEV.md",
     "Cours",
-    "groupe.md",
-    "Cours/Espace vectoriel.md",
-    "Cours/Lambda-Calcul.md",
-    "Cours/Equations différentielles linéaires.md",
-    "Cours/Nombres complexes.md",
-    "Cours/Ensembles.md",
-    "Cours/Sommes et produits.md",
-    "Cours/Matrices.md",
     "Média/Pasted image 20240710225930.png",
     "Média",
     "Média/Pasted image 20240710181517.png",

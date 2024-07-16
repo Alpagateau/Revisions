@@ -1,3 +1,5 @@
+#calculus
+## Définitions
 On défini le **taux d'accroissement** de $f$ en $a$, noté $\tau_a$, la fonction sur $D \backslash \{a\}$ tel que 
 $\tau_a (x) = \frac{f(x) - f(a)}{x-a}$ 
 

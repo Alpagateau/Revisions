@@ -1,3 +1,4 @@
+#algebra 
 Une suite est une [[Fonctions de la variable réelle|application]] de $\mathbb{N}$ vers $\mathbb{R}$. Soit $u$ une telle application, on note son image par $n$, $u_n$ appelé $n$-ieme terme de la suite $(u_n)_{n\in \mathbb{R}}$. 
 
 Soit une suite $(u_n)_{n \in \mathbb{N}}$, on considère son image comme une [[Partie des réels|partie des réels]]. On dit que la suite est **minorée, majorée ou bornée** si son image l'est. 
@@ -65,3 +66,4 @@ La forme $u_{n+1} = f(u_n)$ est une suite récurrente d'**ordre 1**. On peut aus
 	- Si $r$ admet des racines [[Nombres complexes|complexes]] conjuguées de la forme $re^{ia}, re^{-ia}$
 		$u_n = r^n(\lambda cos(na) + \mu sin(na))$
 > Cette méthode de résolution est proche de celle des [[Equations différentielles linéaires|equations différentielles]]. 
+

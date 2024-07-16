@@ -1,3 +1,4 @@
+#algebra 
 ## Vocabulaire
 Une **proposition** est un énoncé vrai ou faux. On note V et F (ou 1 et 0) les valeurs logiques.
 

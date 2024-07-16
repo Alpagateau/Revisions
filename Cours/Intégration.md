@@ -1,3 +1,5 @@
+#calculus 
+## Définition
 L'**intégrale** d'une fonction $f$ est l'air algébrique sous la courbe entre deux bornes.
 ![[Pasted image 20240710225930.png]]
 Les intégrales sont linéaires et respectent la relation de Chasles.  

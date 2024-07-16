@@ -1,3 +1,4 @@
+#algebra 
 > Cette page est différente de la [[Logique]] et ne traite que des méthodes de demonstrations
 
 Les quatre grands types de raisonnements logiques pour montrer $P \Rightarrow Q$ sont:

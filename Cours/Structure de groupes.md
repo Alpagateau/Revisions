@@ -1,3 +1,4 @@
+#algebra 
 ## Définition
 On appel un **groupe** un [[Ensembles|ensemble]] ($G$) muni d'une [[Loi de composition|loi de composition interne]] ($*$) tel que :
 - $*$ est associative
