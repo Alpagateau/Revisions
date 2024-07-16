@@ -56,7 +56,8 @@ $$
 sin(x) = \frac{e^{ix} - e^{-ix}}{2i} \quad
 cos(x) = \frac{e^{ix} + e^{-ix}}{2}
 $$
-De la on obtiens que  $$
+De la on obtiens que  
+$$
 sin(x)^p = ( \frac{e^{ix} - e^{-ix}}{2i})^p \rightarrow
 (2i)^p \cdot sin(x)^p = (e^{ix} - e^{-ix})^p
 $$

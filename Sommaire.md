@@ -1,24 +1,27 @@
-- [x] [[Logique]] et  [[Ensembles]]
-- [x] Calculs algébriques
+> Les chapitres importants pour la deuxième année de maths sont les chapitres :
+>  **4**, **8**, **11**, **12**, 13, 15, 16, 17, 18, **19**, 20, 21
+1. [x] [[Logique]] et  [[Ensembles]]
+2. [x] Calculs algébriques
 	- [x] [[Sommes et produits]]
 	- [x] [[Systèmes linéaires]] 
-- [x] [[Nombres complexes]] 
-- [x] [[Fonctions de la variable réelle]]
-- [ ] [[Equations différentielles linéaires]] TODO⏫ 
-- [x] [[Relation binaire|Algèbre général]]
-- [x] [[Structure de groupes]]
-- [ ] Suites numériques
-- [ ] Polynômes
-- [ ] Continuité
-- [x] [[Espace vectoriel]]  
-- [x] [[Applications linéaires]] 
-- [ ] Fractions rationnelles
-- [x] [[Intégration]]
-- [ ] Comparaisons locale de fonctions
-- [ ] Calcul différentiels
-- [ ] [[Développement limités]]
-- [ ] Séries numériques
-- [x] [[Matrices]] 
-- [ ] Déterminants
-- [ ] Probabilités
-- [x] [[Lambda-Calcul]]
+3. [x] [[Nombres complexes]] 
+4. [x] [[Fonctions de la variable réelle]]
+5. [ ] [[Equations différentielles linéaires]] TODO⏫ 
+6. [x] [[Relation binaire|Algèbre général]]
+7. [x] [[Structure de groupes]]
+8. [x] [[Suites numériques]]
+9. [ ] Polynômes
+10. [ ] Continuité
+11. [x] [[Espace vectoriel]]  
+12. [x] [[Applications linéaires]] 
+13. [ ] Fractions rationnelles
+14. [x] [[Intégration]]
+15. [ ] [[Comparaisons locale de fonctions]]
+16. [ ] Calcul différentiels
+17. [ ] [[Développement limités]]
+18. [ ] Séries numériques
+19. [x] [[Matrices]] 
+20. [ ] Déterminants
+21. [ ] Probabilités
+## Extra
+22. [x] [[Lambda-Calcul]]
