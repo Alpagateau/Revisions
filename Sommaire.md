@@ -10,18 +10,23 @@
 6. [x] [[Relation binaire|Algèbre général]]
 7. [x] [[Structure de groupes]]
 8. [x] [[Suites numériques]]
-9. [ ] Polynômes
+9. [x] [[Polynomes]]
 10. [ ] Continuité
 11. [x] [[Espace vectoriel]]  
 12. [x] [[Applications linéaires]] 
 13. [ ] Fractions rationnelles
 14. [x] [[Intégration]]
-15. [ ] [[Comparaisons locale de fonctions]]
+15. [x] [[Comparaisons locale de fonctions]]
 16. [ ] Calcul différentiels
 17. [ ] [[Développement limités]]
 18. [ ] Séries numériques
 19. [x] [[Matrices]] 
 20. [ ] Déterminants
 21. [ ] Probabilités
+
+## Exercices
+[[Exercices]]
 ## Extra
 22. [x] [[Lambda-Calcul]]
+23. [ ] [[Godot]]
+24. [ ] [[Reverse Engineering]]
