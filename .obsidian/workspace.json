@@ -8,14 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "005f9b9d1f629f3e",
+            "id": "681ca2800e103ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sommaire.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "504809499127acd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Polynomes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffe308bd08e321ce",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,21 +174,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "005f9b9d1f629f3e",
+  "active": "ffe308bd08e321ce",
   "lastOpenFiles": [
+    "Cours/Polynomes.md",
+    "Sommaire.md",
+    "Cours/Décomposition en éléments simples.md",
+    "Exercices/Exercices.md",
+    "Exercices/Exponentielle et logarithmes.md",
+    "Cours/Fractions rationnelles.md",
+    "Side projects/Godot.md",
     "Cours/Comparaisons locale de fonctions.md",
     "Cours/Binôme de newton.md",
     "Cours/Calcul Polynomial.md",
-    "Exercices/Exponentielle et logarithmes.md",
-    "Exercices/Exercices.md",
     "Exercices",
-    "Sommaire.md",
-    "Cours/Polynomes.md",
     "Cours/Systèmes linéaires.md",
     "Cours/Equations différentielles linéaires.md",
     "Cours/Fonctions de la variable réelle.md",
     "Untitled.canvas",
-    "Side projects/Godot.md",
     "Side projects",
     "Cours/Applications linéaires.md",
     "Cours/Sommes et produits.md",
@@ -176,8 +205,6 @@
     "Cours/Partie des réels.md",
     "Cours/Nombres complexes.md",
     "Cours/Loi de composition.md",
-    "Cours/Logique.md",
-    "Cours/Lambda-Calcul.md",
     "Média/Big_O_Complexity.png",
     "Pasted image 20240716164121.png",
     "Pasted image 20240716114957.png",

@@ -1,5 +1,6 @@
 > voir [[Fonctions de la variable réelle#Quelques fonctions utiles]]
 
+Poperties : [[Exercices]]
 # Logarithmes
 ### Calculs 1
 tout représenter en fonction de $ln2$, $ln3$, $ln5$

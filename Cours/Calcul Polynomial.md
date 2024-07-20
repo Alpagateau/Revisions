@@ -10,7 +10,7 @@ En règle générale on défini la division euclidienne de polynômes tel que :
 $$
 A,B \in \mathbb{K}[X], \exists! (Q, R), \{A= BQ +R, deg(R) < deg(B)\}
 $$
-On appel **irréductible** un polynôme qui n'admet qu'exactement deux diviseurs unitaires.
+On appel **irréductible** un polynôme qui n'admet qu'exactement deux diviseurs unitaires. ^f4482d
 - Dans $\mathbb{R}[X]$, tout polynômes de $deg(P) = 1$ ou $deg(P) = 2, \Delta < 0$ est irréductible
 - Dans $\mathbb{C}$, seuls les polynômes de $deg(P) = 1$ sont irréductibles. 
 On appel **associés** deux polynômes tel que $A \mid B$ et $B \mid A$. Il existe alors un réel $\lambda$ tel que $B = \lambda A$.
