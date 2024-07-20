@@ -3,6 +3,7 @@
   "cssTheme": "GitHub Theme",
   "baseFontSize": 19,
   "enabledCssSnippets": [
-    "uncross-checklist"
+    "uncross-checklist",
+    "img_center"
   ]
 }

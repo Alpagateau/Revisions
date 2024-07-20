@@ -1,5 +1,5 @@
 > Les chapitres importants pour la deuxième année de maths sont les chapitres :
->  **4**, **8**, **11**, **12**, **13**, **15**, 16, 17, 18, **19**, 20, 21
+>  **4**, **8**, **11**, **12**, **13**, **15**, **16**, 17, 18, **19**, 20, 21
 1. [x] [[Logique]] et  [[Ensembles]]
 2. [x] Calculs algébriques
 	- [x] [[Sommes et produits]]
@@ -17,12 +17,14 @@
 13. [x] [[Fractions rationnelles]]
 14. [x] [[Intégration]]
 15. [x] [[Comparaisons locale de fonctions]]
-16. [ ] Calcul différentiels
-17. [ ] [[Développement limités]]
-18. [ ] Séries numériques
-19. [x] [[Matrices]] 
-20. [ ] Déterminants
-21. [ ] Probabilités
+16. [x] Calcul différentiel
+	- [x] [[Théorème des accroissements finis]]
+	- [x] [[Formules de Taylor]]
+1. [ ] [[Développement limités]]
+2. [ ] Séries numériques
+3. [x] [[Matrices]] 
+4. [ ] Déterminants
+5. [ ] Probabilités
 
 ## Exercices
 [[Exercices]]

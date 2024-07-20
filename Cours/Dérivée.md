@@ -41,3 +41,14 @@ Les dérivées sont stables par combinaisons linéaires.
 | $\frac{u}{v}$    | $\frac{u'v + uv'}{v^2}$    |                        |
 | $u \circ v$      | $v' \times (u' \circ v)$   |                        |
 | $u^{-1}$         | $\frac{1}{f'(f^{-1})}$     |                        |
+## Dérivés successives
+On note $f''$ la seconde dérivée de $f$, puis, de manière plus générale, $f^{(n)}$ est la dérivée $n$-ième de $f$. 
+Si une fonction est dérivable $n$ fois, alors sa dérivée $(n-1)$-ième est continue, et toutes ses dérivées jusqu'à $(n-1)$ sont continues. 
+
+## Formule de Leibniz
+Soit $f$ et $g$ deux fonctions. On cherche a calculer la dérivée $n$-ième du produit de $f$ et $g$. On peut alors appliquer la **formule de Leibniz** qui est similaire a celle du [[Binôme de newton]]. En effet :
+$$
+\displaystyle
+(f \times g)^n(x) = \sum_{k=0}^n \binom{n}{k}f^{(k)}(x)g^{(n-k)}(x)
+$$
+
