@@ -12,7 +12,7 @@ Q = \prod_{i=1}^n H_i^{m_i}
 $$
 >Pour garder en tête la comparaison avec les entiers, c'est l'équivalent d'écrire que $2^2 \times 3 \times 5^3 = 1500$. 
 
-Il existe alors $E \in \mathbb{K}[X]$ appelé **partie entière**, équivalent au quotient de la division euclidienne de $P$ et $Q$. 
+Il existe alors $E \in \mathbb{K}[X]$ appelé **partie entière**, équivalent au quotient de la [[Calcul Polynomial|division euclidienne]] de $P$ et $Q$. 
 Il existe aussi $R_{i,k} \in \mathbb{K}[X]$ tel que $deg(R_{i,k} < k\times deg(H_i)$. 
 Ainsi, la DES complète s'écrit 
 $$

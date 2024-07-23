@@ -46,3 +46,9 @@ $$
 
 ## Représentation matricielle
 Il est commun de représenter les applications linéaires par des [[Matrices|matrices]]. En effet, la multiplication matricielle de représenter les applications linéaires. De plus, si la matrice associé a une application est inversible, alors cette application est bijective. 
+
+## Multi-linéarité
+Soit une application $f$ de $E$ dans $F$, avec $E$ une ensemble de n-uplets. On dit que $f$ est multilinéaire ssi :
+$$
+f(\mu x_1, \lambda x_2 ... x_n) = \mu \lambda f(x_1, x_2,..., x_n)
+$$

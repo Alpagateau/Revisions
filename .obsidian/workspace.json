@@ -8,53 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "681ca2800e103ceb",
+            "id": "237282e84a50da65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sommaire.md",
-                "mode": "source",
+                "file": "Cours/Applications linéaires.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "9b6bdaa9fe472634",
+            "id": "510d0dd63a00d403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Théorème des accroissements finis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b731b1a9b2b575",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2f3c08276137930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formules de Taylor.md",
-                "mode": "source",
+                "file": "Cours/Matrices.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sommaire.md",
+                "file": "Cours/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sommaire.md",
+                "file": "Cours/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sommaire.md"
+                "file": "Cours/Matrices.md"
               }
             }
           },
@@ -190,38 +170,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "681ca2800e103ceb",
+  "active": "510d0dd63a00d403",
   "lastOpenFiles": [
-    "Cours/Théorème des accroissements finis.md",
-    "Formules de Taylor.md",
-    "Sommaire.md",
-    "Média/accroissement_fini.png.png",
-    "Cours/Dérivée.md",
-    "Cours/Binôme de newton.md",
+    "Cours/Applications linéaires.md",
+    "Cours/Déterminants.md",
+    "Cours/Matrices.md",
+    "Exercices/Area_parallellogram_as_determinant.png",
+    "Sommaire Maths.md",
+    "Cours/Séries numériques.md",
+    "Cours/Espace vectoriel.md",
+    "Cours/Série de Reimann.md",
+    "Cours/Comparaisons locale de fonctions.md",
+    "Cours/Fractions rationnelles.md",
     "Cours/Relation binaire.md",
+    "Cours/Loi de composition.md",
+    "Cours/Equations différentielles linéaires.md",
+    "Cours/Ensembles.md",
+    "Cours/Développements limités.md",
+    "Cours/Développements généralisés.md",
+    "Cours/Binôme de newton.md",
+    "Cours/Formules de Taylor.md",
+    "Cours/Théorème des accroissements finis.md",
+    "Cours/Dérivée.md",
+    "Cours/Décomposition en éléments simples.md",
+    "Cours/Calcul Polynomial.md",
+    "Cours/Suites numériques.md",
+    "Média/accroissement_fini.png.png",
     "Cours/Fonctions de la variable réelle.md",
     "Cours/Fonctions trigonométriques.md",
-    "Cours/Décomposition en éléments simples.md",
-    "Cours/Développement limités.md",
     "Cours/Nombres complexes.md",
-    "Cours/Fractions rationnelles.md",
     "Cours/Polynomes.md",
-    "Exercices/Exercices.md",
-    "Exercices/Exponentielle et logarithmes.md",
-    "Side projects/Godot.md",
-    "Cours/Comparaisons locale de fonctions.md",
-    "Cours/Calcul Polynomial.md",
     "Exercices",
-    "Cours/Systèmes linéaires.md",
-    "Cours/Equations différentielles linéaires.md",
     "Untitled.canvas",
     "Side projects",
-    "Cours/Applications linéaires.md",
-    "Cours/Sommes et produits.md",
-    "Cours/Matrices.md",
-    "Cours/Suites numériques.md",
-    "Cours/Théorème des gendarmes.md",
-    "Preuves/Preuve GL est un groupe.md",
     "Média/Big_O_Complexity.png",
     "Pasted image 20240716164121.png",
     "Pasted image 20240716114957.png",
@@ -234,7 +215,6 @@
     "LICENSE",
     "Média/triangle_de_pascal.png",
     "Pasted image 20240708225521.png",
-    "Sans titre.canvas",
-    "Pasted image 20240708174859.png"
+    "Sans titre.canvas"
   ]
 }

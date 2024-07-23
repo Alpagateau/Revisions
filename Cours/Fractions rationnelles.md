@@ -5,7 +5,7 @@ $$
 (P, Q) \in \mathbb{K}[X]^2,\quad Q \ne 0,\quad F = {P \over Q}
 $$
 On note $\mathbb{K}(X)$ l'ensemble des fractions rationnelles.
-
+Les fractions rationnelles forment des [[Structure de groupes|groupes]] munis de l'addition et la multiplication. 
 ## Points communs avec les fractions
 Tous comme les rationnels, on définit l'équivalence des fractions rationnelles comme suit :
 $$

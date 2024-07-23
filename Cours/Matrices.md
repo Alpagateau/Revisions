@@ -8,7 +8,7 @@ On appel une matrice **élémentaire** si elle ne possède qu'un seul coefficien
 
 La **base canonique** d'une matrice est une famille de $n \times p$ matrices élémentaires, tel que chacune ai son $1$ a une position différente. 
 
-Soit $A$ une matrice, on note $A^T$ la transposé, cet a dire le miroir par la diagonale, de la matrice A. 
+Soit $A$ une matrice, on note $A^T$ la transposé, cet a dire le miroir par la diagonale, de la matrice A.  ^7c9416
 
 On note $0$ ou $0_{n,p}$ la matrice de taille $n \times p$ dont tous les coefficients sont nuls. 
 On a que $\mathcal{M}_{n,p}(\mathbb{K})$ est un $\mathbb{K}$-[[Espace vectoriel|espace vectoriel]] d'élément neutre 0. ^d59392
@@ -63,3 +63,4 @@ $$
 L'inverse d'une matrice $A$ est la matrice $B$ tel que $AB = BA = I_n$
 On note $B = A^{-1}$. L'ensemble de toutes les matrices inversibles est appelé groupe linéaire, et est noté $GL_n(\mathbb{K})$. 
 Pour inverser une matrice, on utilise l'algorithme de [[Pivot de Gauss|gauss-jordan]].
+

@@ -10,7 +10,7 @@ $$
 sin(x) = \frac{e^{ix} - e^{-ix}}{2i} \quad
 cos(x) = \frac{e^{ix} + e^{-ix}}{2}
 $$
-Mais aussi des [[Développement limités|développement limités]] :
+Mais aussi des [[Développements limités|développement limités]] :
 $$
 sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!}...
 $$

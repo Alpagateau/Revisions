@@ -11,7 +11,7 @@ a(bu) &= (ab)u \\
 \end{split}
 $$
 Les éléments d'un espace vectoriel sont appelés des **vecteurs**. Il ne sont pas forcements des n-uplets de $\mathbb{R}$, mais il est courant de s'y ramener.  
-On note souvent un espace vectoriel de la manière suivante : $(E, +, \cdot)$.
+On note souvent un espace vectoriel de la manière suivante : $(E, +, \cdot)$, avec $E \subset \mathbb{K}$, $+$ la [[Loi de composition|loi de composition interne]], et $\cdot$ la loi de multiplication externe.  
 
 ## EV Produit
 Soit deux espaces vectoriels, on peut les "additionner", permettant d'obtenir un nouvel espace vectoriel, comportant toutes les combinaisons linéaires des vecteurs des deux EV d'origines.
