@@ -20,3 +20,6 @@ F & \rightarrow \lambda x.\lambda y. y \\
 Not &: \lambda b . b \space F \space V \\
 \end{align}
 $$
+---
+Identity : $I := \lambda a.a$
+$\lambda \rightarrow$ définition d'une fonction a 1 argument 

@@ -64,3 +64,13 @@ L'inverse d'une matrice $A$ est la matrice $B$ tel que $AB = BA = I_n$
 On note $B = A^{-1}$. L'ensemble de toutes les matrices inversibles est appelé groupe linéaire, et est noté $GL_n(\mathbb{K})$. 
 Pour inverser une matrice, on utilise l'algorithme de [[Pivot de Gauss|gauss-jordan]].
 
+## Changement de base
+On considère que chaque colonne d'une matrice est un vecteur dans une base donnée. Si on veux obtenir une même matrice dans une autre base, on peut utiliser la formule suivante :
+$$
+B = P^{-1}AP
+$$
+avec $P$ une **matrice de passage** tel que :
+$$
+A = PB
+$$
+

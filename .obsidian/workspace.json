@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Matrices.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matrices.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Matrices.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Matrices.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,9 +172,11 @@
   },
   "active": "510d0dd63a00d403",
   "lastOpenFiles": [
+    "Cours/Equations différentielles linéaires.md",
+    "Cours/Lambda-Calcul.md",
+    "Cours/Matrices.md",
     "Cours/Applications linéaires.md",
     "Cours/Déterminants.md",
-    "Cours/Matrices.md",
     "Exercices/Area_parallellogram_as_determinant.png",
     "Sommaire Maths.md",
     "Cours/Séries numériques.md",
@@ -184,7 +186,6 @@
     "Cours/Fractions rationnelles.md",
     "Cours/Relation binaire.md",
     "Cours/Loi de composition.md",
-    "Cours/Equations différentielles linéaires.md",
     "Cours/Ensembles.md",
     "Cours/Développements limités.md",
     "Cours/Développements généralisés.md",
@@ -199,7 +200,6 @@
     "Cours/Fonctions de la variable réelle.md",
     "Cours/Fonctions trigonométriques.md",
     "Cours/Nombres complexes.md",
-    "Cours/Polynomes.md",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
