@@ -1,3 +1,4 @@
+#calculus 
 ## Définition
 Un **développement généralisé** est une généralisation des [[Développements limités|développements limités]].
 Il en existes deux sortes :

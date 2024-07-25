@@ -1,7 +1,7 @@
 #algebra 
 Une suite est une [[Fonctions de la variable réelle|application]] de $\mathbb{N}$ vers $\mathbb{R}$. Soit $u$ une telle application, on note son image par $n$, $u_n$ appelé $n$-ieme terme de la suite $(u_n)_{n\in \mathbb{R}}$. 
 
-Soit une suite $(u_n)_{n \in \mathbb{N}}$, on considère son image comme une [[Partie des réels|partie des réels]]. On dit que la suite est **minorée, majorée ou bornée** si son image l'est. 
+Soit une suite $(u_n)_{n \in \mathbb{N}}$, on considère son image comme une [[Intervalle et voisinage|partie des réels]]. On dit que la suite est **minorée, majorée ou bornée** si son image l'est. 
 De plus, elle reste une application, donc les règles de [[Fonctions de la variable réelle#Monotonie|croissance]] sont applicables. 
 
 Les suites sont stables par combinaisons linéaires. On défini aussi le produit de suites comme le produits de leurs termes. (ex. $\forall n \in \mathbb{N},\quad (u  \times v)_n = u_n \times v_n$)

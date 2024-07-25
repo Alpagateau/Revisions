@@ -4,7 +4,7 @@ On défini le **taux d'accroissement** de $f$ en $a$, noté $\tau_a$, la fonctio
 $\tau_a (x) = \frac{f(x) - f(a)}{x-a}$ 
 
 On dit que $f$ est **dérivable** si $\tau_a$ admet une limite finie en $a$.
-Si $f$ est dérivable sur un interval, alors on défini la **dérivé** de $f$, noté $f'$ ou $\frac{df}{dx}$. Si $f$ est derivable, alors $f$ est continue. **Ce n'est pas réciproque**. 
+Si $f$ est dérivable sur un intervalle, alors on défini la **dérivé** de $f$, noté $f'$ ou $\frac{df}{dx}$. Si $f$ est dérivable, alors $f$ est [[Continuité|continue]]. **Ce n'est pas réciproque**. 
 Les dérivées sont stables par combinaisons linéaires. 
 ## Dérivée usuelles
 

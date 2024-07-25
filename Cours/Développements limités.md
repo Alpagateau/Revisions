@@ -13,7 +13,7 @@ avec $o_{x_0}(x^n)$ une fonction [[Comparaisons locale de fonctions#Fonction né
 Le plus souvent, on considère le DL en 0. 
 
 ## Existence et Unicité
-Un $DL_{n}(x_0)$ existe si et seulement si $f$ est continue en $x_0$ et dérivable $n$ fois. On utilise ensuite la [[Formules de Taylor|formule de taylor-young]] pour obtenir le DL.
+Un $DL_{n}(x_0)$ existe si et seulement si $f$ est [[Continuité|continue]] en $x_0$ et dérivable $n$ fois. On utilise ensuite la [[Formules de Taylor|formule de taylor-young]] pour obtenir le DL.
 Si un $DL_n$ existe, il est unique (sa partie polynomiale est unique) et tout $DL_p$ avec $p < n$ existe. 
 Si $f$ admet un $DL_n$, alors toute primitive $F$ et $f$ admet un $DL_{n+1}$ trouvable par intégration de la partie 
 Si $f$ admet un $DL_n$, alors $\displaystyle 1 \over f$ en admet un aussi. Dans la pratique, on considèrera le plus souvent $1 \over {1 + u}$ avec $u = f-1$. 

@@ -11,7 +11,7 @@
 7. [x] [[Structure de groupes]]
 8. [x] [[Suites numériques]]
 9. [x] [[Polynomes]]
-10. [ ] Continuité
+10. [ ] [[Continuité]]
 11. [x] [[Espace vectoriel]]  
 12. [x] [[Applications linéaires]] 
 13. [x] [[Fractions rationnelles]]

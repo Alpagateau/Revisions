@@ -5,7 +5,7 @@ $$
 $$
 ![[accroissement_fini.png.png]]
 #### Explication
-Pour toute fonction continue et [[Dérivée|dérivable]] sur $]a,b[$, il existe une valeur $c \in ]a,b[$ tel que $f'(c) = {f(b)-f(a) \over b-a}$.  Autrement dit, il existe $c$ tel que $f(a) - f(b) = f'(c)(a-b)$.
+Pour toute fonction [[Continuité|continue]] et [[Dérivée|dérivable]] sur $]a,b[$, il existe une valeur $c \in ]a,b[$ tel que $f'(c) = {f(b)-f(a) \over b-a}$.  Autrement dit, il existe $c$ tel que $f(a) - f(b) = f'(c)(a-b)$.
 
 ## Inégalité des accroissements finis. 
 Si il existe $m$ et $M$ tel que, sur $]a,b[$, $m < f'(x) < M$, alors :

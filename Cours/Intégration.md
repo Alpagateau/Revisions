@@ -4,7 +4,7 @@ L'**intégrale** d'une fonction $f$ est l'air algébrique sous la courbe entre d
 ![[Pasted image 20240710225930.png]]
 Les intégrales sont linéaires et respectent la relation de Chasles.  
 On appel la fonction qui, une fois dérivée donne $f$, la primitive de $f$
->Cette page explique l'intégration continue, pour l'intégration discrète voir cette [[Intégration discrète|page]].
+>Cette page explique l'intégration [[Continuité|continue]], pour l'intégration discrète voir cette [[Intégration discrète|page]].
 ##### Théorème fondamental de l'analyse
 $$
 F(x) = \displaystyle \int_{a}^{b} f(x)\,dx
