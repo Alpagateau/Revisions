@@ -1,5 +1,6 @@
-# Révisions
+![image](https://github.com/user-attachments/assets/87ea98b3-4cfe-4028-8c80-9cdffb7e9e52)# Révisions
 Des cours de maths et physiques niveau prépa, ecrit par des élèves pour des élèves. 
+![graph1](https://github.com/user-attachments/assets/d4dedd96-888f-4a36-a38a-b9051f2c1c6d)
 
 ## Installation
 Ces fiches sont faites pour fonctionner avec [Obsidian](https://obsidian.md). Ces fiches sont en réalité un "vault" obsidian. Pour l'installer, il y a deux manières principales. 
@@ -26,3 +27,6 @@ Toutes les fiches contenant des cours sont dans le dossier cours. Toutes les ima
 
 ## Navigation
 Pour utiliser au mieux ces fiches, ouvrez simplement obsidian. Ouvrez soit le sommaire maths directement, soit la vue en graph avec `Crtl+G`. 
+
+## Contactes
+Contactez moi sur [twitter](https://x.com/alpagames3) ou dans l'onglet Issues
