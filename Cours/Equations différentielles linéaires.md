@@ -83,8 +83,10 @@ g'(x) &= {b(x)\cdot e^{A(x)}} \\
 $$
 On intègre alors le second membre, et on obtient $g$. 
 On a trouvé une solution particulière !
+##### Principe de superposition
+Si il existe $b_1, b_2$ tel que $b = b_1 + b_2$, alors on peut trouver une solution particulière pour $b_1$ puis $b_2$ et les additionner pour obtenir $y_p$.
 ##### Cas particuliers
-Si $a$ est une constante et $b$ est de la forme $P(x)e^{sx}$ avec $P$ un polynôme et $s$ un réel, on a alors :
+1. Si $a$ est une constante et $b$ est de la forme $P(x)e^{sx}$ avec $P$ un polynôme et $s$ un réel, on a alors :
 $$
 y_p :x \rightarrow 
 \begin{dcases}
@@ -92,4 +94,51 @@ y_p :x \rightarrow
     xQ(x)e^{sx}, & s = a
 \end{dcases}
 $$
-avec $Q$ un polynôme de même degré que $P$. 
+	avec $Q$ un polynôme de même degré que $P$. 
+2. Si $a$ est une constante et $b$ est de la forme $b \rightarrow \lambda cos(\omega x) + \mu sin(\omega x)$, alors :
+$$
+y_p = \alpha cos(\omega x) + \beta sin(\omega x)
+$$
+
+## Equations différentielles du second ordre
+> Ici nous n'étudieront que les equa-diff d'ordre 2 **a coefficients** constants.
+
+Une équation du second ordre serait alors de cette forme :
+$$
+(E) \quad ay'' + by' +cy = f(x)
+$$
+avec $(a,b,c) \in \mathbb{R}^3$.
+La méthode de résolution est similaire. On essaie d'abord de résoudre l'équation homogène, puis on l'additionne a une solution particulière. 
+##### Solution homogène 2nd ordre
+La solution homogène est un peu plus complexe a trouver pour l'ordre deux. On commence par considérer le **polynôme caractéristique** de l'équation :
+$$
+(E_c)\quad ar^2 + br + c = 0, \quad r\in \mathbb{C}
+$$
+On a alors trois cas. Soit :
+- il existes deux racines réelles $r_1, r_2$ alors on a :
+$$
+y_H = \lambda e^{r_1 x} + \mu e^{r_2 x}
+$$
+- Il existes une racine double réelle $r$, ainsi:
+$$
+y_H = (\lambda x + \mu)e^{rx}
+$$
+- Il existes deux racines [[Nombres complexes|complexes]] $\alpha \pm i \beta$ :
+$$
+y_H = e^{\alpha x} (\lambda cos(\beta x) + \mu sin(\beta x))
+$$
+> Le pourquoi du comment est un peu long mais est très bien expliqué sur le site de [Paul's Online Notes](https://tutorial.math.lamar.edu/classes/de/complexroots.aspx).
+
+##### Recherche d'une solution particulière 2nd ordre
+La recherche de solution particulière pour le 2nd ordre est plus complexe que pour le premier ordre. Ici sont présentés quelques cas particuliers 
+
+1. $f(x)$ est de la forme $P(x)e^{rx}$ avec $P$ un polynôme non constant et $r \in \mathbb{C}$. Alors on a :
+$$
+y_p : x \rightarrow
+\begin{dcases}
+Q(x)e^{rx}&,  r\text{ n'est pas racine de } E_c \\
+xQ(x)e^{rx}&,  r \text{ est racine simple de } E_c \\
+x^2Q(x)e^{rx}&, r\text { est racone double de } E_c
+\end{dcases}
+$$
+2. $f(x)$ est de la forme $P(x)cos(\omega x)$ (resp. $sin$), on applique la méthode précédente en considérant $f_2(x) = P(x) e^{i \omega x}$ . Puis on prend la partie réelle de la solution (resp. la partie imaginaire pour $sin$).
