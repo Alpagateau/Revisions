@@ -11,8 +11,39 @@
             "id": "42bb541dd012ed73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Equations différentielles linéaires.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ff5d872eb25ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Dérivée.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2df16500b16c5672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Continuité.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Equations différentielles linéaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/Equations différentielles linéaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cours/Equations différentielles linéaires.md"
+              }
             }
           },
           {
@@ -150,19 +184,19 @@
   },
   "active": "42bb541dd012ed73",
   "lastOpenFiles": [
+    "Cours/Dérivée.md",
+    "Cours/Continuité.md",
+    "Cours/Equations différentielles linéaires.md",
     "Cours/Développements généralisés.md",
     "Cours/Théorème des accroissements finis.md",
     "Cours/Intégration.md",
     "Cours/Développements limités.md",
-    "Cours/Dérivée.md",
-    "Cours/Continuité.md",
     "Cours/Intervalle et voisinage.md",
     "README.md",
     "Sommaire Maths.md",
     "Cours/Ensembles.md",
     "Média/limits.png",
     "Média/continuity.jpg",
-    "Cours/Equations différentielles linéaires.md",
     "Cours/Applications linéaires.md",
     "Cours/Lambda-Calcul.md",
     "Cours/Matrices.md",
