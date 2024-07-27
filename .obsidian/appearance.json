@@ -1,9 +1,11 @@
 {
   "theme": "obsidian",
   "cssTheme": "GitHub Theme",
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "uncross-checklist",
     "img_center"
-  ]
+  ],
+  "monospaceFontFamily": "Hasklug Nerd Font Mono",
+  "textFontFamily": "Hasklug Nerd Font Mono"
 }

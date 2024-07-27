@@ -6,12 +6,12 @@
 	- [x] [[Systèmes linéaires]] 
 3. [x] [[Nombres complexes]] 
 4. [x] [[Fonctions de la variable réelle]]
-5. [ ] [[Equations différentielles linéaires]] TODO ⏫
+5. [x] [[Equations différentielles linéaires]]
 6. [x] [[Relation binaire|Algèbre général]]
 7. [x] [[Structure de groupes]]
 8. [x] [[Suites numériques]]
 9. [x] [[Polynomes]]
-10. [ ] [[Continuité]]
+10. [x] [[Continuité]]
 11. [x] [[Espace vectoriel]]  
 12. [x] [[Applications linéaires]] 
 13. [x] [[Fractions rationnelles]]
@@ -23,8 +23,8 @@
 17. [x] [[Développements limités]]
 18. [x] [[Séries numériques]]
 19. [x] [[Matrices]] 
-20. [ ] [[Déterminants]]
-21. [ ] Probabilités
+20. [x] [[Déterminants]]
+21. [ ] [[Probabilités]]
 
 ## Exercices
 [[Exercices]]
