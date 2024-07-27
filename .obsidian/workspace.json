@@ -8,41 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42bb541dd012ed73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Probabilités.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4991a83ccef8f4b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sommaire Physiques.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2df16500b16c5672",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be03018f1cd5ff79",
@@ -178,10 +157,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
+  "floating": {
+    "id": "6c670f7cff04d6c4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a798921394b83f38",
+        "type": "window",
+        "children": [
+          {
+            "id": "c554336f0dc58986",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36463dc10d05b4d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cours/Systèmes de coordonnées.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 961,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4991a83ccef8f4b8",
   "lastOpenFiles": [
-    "Cours/Probabilités.md",
+    "Bases locales.md",
+    "Cours/Systèmes de coordonnées.md",
     "Sommaire Physiques.md",
+    "Pasted image 20240727184425.png",
+    "Cours/cylindrical_coordinates.png",
+    "Média/cartesian_coordinates.png",
+    "Cours/Calcul Polynomial.md",
+    "Cours/Probabilités.md",
+    "Cours/Séries numériques.md",
     "Sommaire Maths.md",
     "README.md",
     "Preuves/Preuve GL est un groupe.md",
@@ -192,7 +216,6 @@
     "Cours/Suites numériques.md",
     "Cours/Structure de groupes.md",
     "Cours/Sommes et produits.md",
-    "Cours/Séries numériques.md",
     "Cours/Série de Reimann.md",
     "Cours/Relation binaire.md",
     "Cours/Raisonnements logiques.md",
@@ -203,9 +226,6 @@
     "Cours/Logique.md",
     "Cours/Lambda-Calcul.md",
     "Cours/Intervalle et voisinage.md",
-    "Cours/Intégration discrète.md",
-    "Cours/Intégration.md",
-    "Cours/Fractions rationnelles.md",
     "Média/limits.png",
     "Média/continuity.jpg",
     "Exercices/Area_parallellogram_as_determinant.png",
@@ -216,11 +236,8 @@
     "Média/Big_O_Complexity.png",
     "Pasted image 20240716164121.png",
     "Pasted image 20240716114957.png",
-    "Média/graph_1.png",
     "Cours",
-    "Média/Pasted image 20240710225930.png",
     "Média",
-    "Média/Pasted image 20240710181517.png",
     "Preuves",
     "LICENSE",
     "Sans titre.canvas"

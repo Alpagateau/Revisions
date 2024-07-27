@@ -1,3 +1,4 @@
+#algebra 
 ## Définition
 Soit une [[Suites numériques|suite]] $(u_n)_{n \in \mathbb{N}}$, on appel **série** (ou **somme partielle**)  la suite $S_n$ tel que 
 $$

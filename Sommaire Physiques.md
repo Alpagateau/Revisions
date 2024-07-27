@@ -1,5 +1,6 @@
 ## Mécanique
-1. [ ] Systèmes de coordonnés 
+1. [x] [[Systèmes de coordonnées]]
+	1. [x] [[Bases locales]]
 2. [ ] Cinématique du point
 3. [ ] Dynamique du point
 4. [ ] Energétique du point
