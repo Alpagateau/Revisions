@@ -19,5 +19,5 @@ P = r \rho + ze_z
 $$
 ## Système sphérique
 Si on étudie le mouvement d'une rotule ou de rotation autour d'une sphère, on peut utiliser des coordonnées sphériques, noté ($r, \theta, \phi$)
-![[Pasted image 20240727184425.png|300]]
+![[spherical_coordinates.png|300]]
 Avec $r$ le rayon de la sphère, $\phi$ l'axe "polaire" (par rapport a l'axe $e_x$), et $\theta$ la colatitude (par rapport a l'axe $e_z$)

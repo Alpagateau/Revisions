@@ -1,6 +1,7 @@
 #mecanic 
 ## Définition
 Pour chaque [[Systèmes de coordonnées|systèmes de coordonnées]], on définie une [[Espace vectoriel#Base|bases]] locale, en fonction de ce système de coordonnées.
+C'est dans ces bases que l'on définira mes équations de mouvements. 
 
 ## Base cylindrique
 Dans un système cylindrique, on pose les vecteurs $u_{\rho} = cos(\phi)e_x + sin(\phi)e_y$ $u_{\phi} = sin(\phi)e_x - cos(\phi)e_y$, et $u_z = e_z$.

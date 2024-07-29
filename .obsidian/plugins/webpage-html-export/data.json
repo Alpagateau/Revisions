@@ -1,7 +1,7 @@
 {
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
-  "inlineAssets": true,
+  "inlineAssets": false,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -16,21 +16,21 @@
   "allowResizingSidebars": true,
   "logLevel": "warning",
   "minifyHTML": true,
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
-  "addSearchBar": false,
-  "addGraphView": false,
+  "addSearchBar": true,
+  "addGraphView": true,
   "addTitle": true,
-  "addRSSFeed": true,
+  "addRSSFeed": false,
   "siteURL": "",
-  "authorName": "",
-  "vaultTitle": "Obsidian Vault",
-  "exportPreset": "documents",
-  "openAfterExport": true,
+  "authorName": "Martin Nadaud",
+  "vaultTitle": "Révisions",
+  "exportPreset": "website",
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,8 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\Alpa\\Documents\\Code\\revisionsWeb",
+  "exportPath": "C:\\\\Users\\Alpa\\Documents\\Code\\Classes",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

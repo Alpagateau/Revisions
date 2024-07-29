@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "be03018f1cd5ff79",
@@ -157,68 +156,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "6c670f7cff04d6c4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a798921394b83f38",
-        "type": "window",
-        "children": [
-          {
-            "id": "c554336f0dc58986",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36463dc10d05b4d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cours/Systèmes de coordonnées.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 961,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4991a83ccef8f4b8",
   "lastOpenFiles": [
-    "Bases locales.md",
-    "Cours/Systèmes de coordonnées.md",
-    "Sommaire Physiques.md",
-    "Pasted image 20240727184425.png",
-    "Cours/cylindrical_coordinates.png",
-    "Média/cartesian_coordinates.png",
-    "Cours/Calcul Polynomial.md",
-    "Cours/Probabilités.md",
-    "Cours/Séries numériques.md",
-    "Sommaire Maths.md",
     "README.md",
     "Preuves/Preuve GL est un groupe.md",
     "Exercices/Exponentielle et logarithmes.md",
     "Cours/Théorème des gendarmes.md",
     "Cours/Théorème des accroissements finis.md",
     "Cours/Systèmes linéaires.md",
+    "Cours/Systèmes de coordonnées.md",
     "Cours/Suites numériques.md",
     "Cours/Structure de groupes.md",
     "Cours/Sommes et produits.md",
+    "Cours/Séries numériques.md",
     "Cours/Série de Reimann.md",
     "Cours/Relation binaire.md",
     "Cours/Raisonnements logiques.md",
+    "Cours/Probabilités.md",
     "Cours/Polynomes.md",
     "Cours/Nombres complexes.md",
     "Cours/Matrices.md",
@@ -226,6 +180,13 @@
     "Cours/Logique.md",
     "Cours/Lambda-Calcul.md",
     "Cours/Intervalle et voisinage.md",
+    "Cours/Intégration discrète.md",
+    "Cours/Intégration.md",
+    "Cours/Fractions rationnelles.md",
+    "Cours/Formules de Taylor.md",
+    "Pasted image 20240727184425.png",
+    "Cours/cylindrical_coordinates.png",
+    "Média/cartesian_coordinates.png",
     "Média/limits.png",
     "Média/continuity.jpg",
     "Exercices/Area_parallellogram_as_determinant.png",
