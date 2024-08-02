@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sommaire Physiques.md",
+                "file": "Cours/Développements limités.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sommaire Physiques.md",
+                "file": "Cours/Développements limités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sommaire Physiques.md",
+                "file": "Cours/Développements limités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sommaire Physiques.md"
+                "file": "Cours/Développements limités.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "4991a83ccef8f4b8",
   "lastOpenFiles": [
+    "Sommaire Maths.md",
+    "Média/Area_parallellogram_as_determinant.png",
+    "Sommaire Physiques.md",
     "README.md",
     "Preuves/Preuve GL est un groupe.md",
     "Exercices/Exponentielle et logarithmes.md",
@@ -182,14 +185,11 @@
     "Cours/Intervalle et voisinage.md",
     "Cours/Intégration discrète.md",
     "Cours/Intégration.md",
-    "Cours/Fractions rationnelles.md",
-    "Cours/Formules de Taylor.md",
     "Pasted image 20240727184425.png",
-    "Cours/cylindrical_coordinates.png",
+    "Média/cylindrical_coordinates.png",
     "Média/cartesian_coordinates.png",
     "Média/limits.png",
     "Média/continuity.jpg",
-    "Exercices/Area_parallellogram_as_determinant.png",
     "Média/accroissement_fini.png.png",
     "Exercices",
     "Untitled.canvas",
