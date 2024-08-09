@@ -4,17 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3dc975768cabbd",
+        "id": "57f3370f806f90f8",
         "type": "tabs",
         "children": [
           {
-            "id": "4991a83ccef8f4b8",
+            "id": "f24f71571c426a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Développements limités.md",
-                "mode": "preview",
+                "file": "Cours/Intégration.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "280dfb3a1133e3c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d4a6d85dfd184b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercices/DS Commun 2022.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Développements limités.md",
+                "file": "Cours/Intégration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Développements limités.md",
+                "file": "Cours/Intégration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Développements limités.md"
+                "file": "Cours/Intégration.md"
               }
             }
           },
@@ -156,47 +177,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4991a83ccef8f4b8",
+  "active": "f24f71571c426a2d",
   "lastOpenFiles": [
-    "Sommaire Maths.md",
-    "Média/Area_parallellogram_as_determinant.png",
-    "Sommaire Physiques.md",
-    "README.md",
-    "Preuves/Preuve GL est un groupe.md",
-    "Exercices/Exponentielle et logarithmes.md",
-    "Cours/Théorème des gendarmes.md",
+    "Exercices/DS Commun 2022.md",
+    "Cours/Fonctions trigonométriques.md",
+    "Cours/Intégration.md",
+    "Cours/Séries numériques.md",
+    "Cours/Comparaisons locale de fonctions.md",
     "Cours/Théorème des accroissements finis.md",
     "Cours/Systèmes linéaires.md",
-    "Cours/Systèmes de coordonnées.md",
-    "Cours/Suites numériques.md",
-    "Cours/Structure de groupes.md",
-    "Cours/Sommes et produits.md",
-    "Cours/Séries numériques.md",
-    "Cours/Série de Reimann.md",
-    "Cours/Relation binaire.md",
-    "Cours/Raisonnements logiques.md",
-    "Cours/Probabilités.md",
-    "Cours/Polynomes.md",
-    "Cours/Nombres complexes.md",
-    "Cours/Matrices.md",
-    "Cours/Loi de composition.md",
-    "Cours/Logique.md",
-    "Cours/Lambda-Calcul.md",
-    "Cours/Intervalle et voisinage.md",
-    "Cours/Intégration discrète.md",
-    "Cours/Intégration.md",
-    "Pasted image 20240727184425.png",
-    "Média/cylindrical_coordinates.png",
-    "Média/cartesian_coordinates.png",
-    "Média/limits.png",
+    "Cours/Applications linéaires.md",
+    "Cours/Développements généralisés.md",
+    "Cours/Déterminants.md",
+    "Cours/Bases locales.md",
+    "Cours/Binôme de newton.md",
+    "Média/Pasted image 20240803181444.png",
+    "Média/Pasted image 20240710181517.png",
+    "Média/graph_1.png",
     "Média/continuity.jpg",
+    "Média/cartesian_coordinates.png",
+    "Média/Big_O_Complexity.png",
+    "Média/Area_parallellogram_as_determinant.png",
     "Média/accroissement_fini.png.png",
+    "Preuves/Preuve GL est un groupe.md",
+    "Sommaire Physiques.md",
+    "README.md",
+    "Sommaire Maths.md",
+    "Test.md",
+    "Cours/Systèmes de coordonnées.md",
+    "Cours/Développements limités.md",
+    "Cours/Nombres complexes.md",
+    "Cours/Polynomes.md",
+    "Pasted image 20240806155836.png",
+    "Exercices/Exponentielle et logarithmes.md",
+    "Cours/Régime transitoire.md",
+    "Cours/Formules de Taylor.md",
+    "Média/RC-Circuit.png",
+    "Cours/Equations différentielles linéaires.md",
+    "Cours/Fractions rationnelles.md",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
-    "Média/Big_O_Complexity.png",
-    "Pasted image 20240716164121.png",
-    "Pasted image 20240716114957.png",
     "Cours",
     "Média",
     "Preuves",

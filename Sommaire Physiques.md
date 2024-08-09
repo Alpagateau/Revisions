@@ -8,4 +8,7 @@
 6. [ ] Oscillations forcées
 7. [ ] Théorème du mouvement cinétique
 8. [ ] Forces conservatives
-9. [ ] Changements de référentiels 
+9. [ ] Changements de référentiels
+
+## Misc
+10. [ ] [[Régime transitoire]]

@@ -4,6 +4,7 @@ Une **équation différentielle** est tout simplement une équation qui met en r
 Il existes deux sortes d'équations différentielles : 
 - Les équations différentielles ordinaires (ODE), pour lesquels les fonctions étudiées sont a une variables
 - Les équations différentielles partielles (PDE), pour les fonctions a plusieurs variables.
+
 Ici nous n'étudierons que les fonctions a une seule variable.
 
 ## Notation

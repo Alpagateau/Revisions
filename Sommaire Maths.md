@@ -1,5 +1,6 @@
 > Les chapitres importants pour la deuxième année de maths sont les chapitres :
 >  **4**, **8**, **11**, **12**, **13**, **15**, **16**, **17**, 18, **19**, 20, 21
+
 1. [x] [[Logique]] et  [[Ensembles]]
 2. [x] Calculs algébriques
 	- [x] [[Sommes et produits]]
@@ -30,4 +31,4 @@
 [[Exercices]]
 ## Extra
 22. [x] [[Lambda-Calcul]]
-23. [ ] Transformée de Laplace
+23. [ ] [[Transformée de Laplace]]

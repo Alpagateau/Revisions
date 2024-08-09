@@ -1,4 +1,4 @@
-#algebra 
+#calculus  
 ## Coefficient binomial
 Écrie $\binom{n}{k}$, le **coefficient binomial** représentes le nombres de groupement de $k$ elements possibles dans un ensemble de $n$ elements.
 Il a comme formule générale $\frac{n!}{k!(n-k!)}$.
