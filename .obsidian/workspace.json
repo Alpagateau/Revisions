@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f24f71571c426a2d",
+            "id": "d7d27f3b8b72253a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Intégration.md",
+                "file": "Cours/Nomenclature.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,19 +26,6 @@
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "0d4a6d85dfd184b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercices/DS Commun 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Intégration.md",
+                "file": "Cours/Nomenclature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Intégration.md",
+                "file": "Cours/Nomenclature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Intégration.md"
+                "file": "Cours/Nomenclature.md"
               }
             }
           },
@@ -177,11 +164,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f24f71571c426a2d",
+  "active": "d7d27f3b8b72253a",
   "lastOpenFiles": [
+    "Preuves/Preuve GL est un groupe.md",
+    "Média/RamificationHydroxyle.png",
+    "Cours/Intégration.md",
+    "Cours/Nomenclature.md",
+    "Sommaire Chimie.md",
     "Exercices/DS Commun 2022.md",
     "Cours/Fonctions trigonométriques.md",
-    "Cours/Intégration.md",
     "Cours/Séries numériques.md",
     "Cours/Comparaisons locale de fonctions.md",
     "Cours/Théorème des accroissements finis.md",
@@ -199,7 +190,6 @@
     "Média/Big_O_Complexity.png",
     "Média/Area_parallellogram_as_determinant.png",
     "Média/accroissement_fini.png.png",
-    "Preuves/Preuve GL est un groupe.md",
     "Sommaire Physiques.md",
     "README.md",
     "Sommaire Maths.md",
@@ -211,10 +201,6 @@
     "Pasted image 20240806155836.png",
     "Exercices/Exponentielle et logarithmes.md",
     "Cours/Régime transitoire.md",
-    "Cours/Formules de Taylor.md",
-    "Média/RC-Circuit.png",
-    "Cours/Equations différentielles linéaires.md",
-    "Cours/Fractions rationnelles.md",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
