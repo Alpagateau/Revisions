@@ -4,28 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57f3370f806f90f8",
+        "id": "3d3dc975768cabbd",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d27f3b8b72253a",
+            "id": "737c8dc3c6865215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Nomenclature.md",
-                "mode": "source",
+                "file": "Cours/Equations différentielles linéaires.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "280dfb3a1133e3c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Nomenclature.md",
+                "file": "Cours/Equations différentielles linéaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Nomenclature.md",
+                "file": "Cours/Equations différentielles linéaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Nomenclature.md"
+                "file": "Cours/Equations différentielles linéaires.md"
               }
             }
           },
@@ -164,43 +156,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d7d27f3b8b72253a",
+  "active": "737c8dc3c6865215",
   "lastOpenFiles": [
-    "Preuves/Preuve GL est un groupe.md",
-    "Média/RamificationHydroxyle.png",
-    "Cours/Intégration.md",
-    "Cours/Nomenclature.md",
     "Sommaire Chimie.md",
+    "Média/cylindrical_coordinates.png",
+    "Média/RamificationHydroxyle.png",
+    "Média/RC-Circuit.png",
+    "Média/Pasted image 20240803181444.png",
+    "Média/Area_parallellogram_as_determinant.png",
     "Exercices/DS Commun 2022.md",
-    "Cours/Fonctions trigonométriques.md",
-    "Cours/Séries numériques.md",
-    "Cours/Comparaisons locale de fonctions.md",
+    "Cours/Régime transitoire.md",
+    "Cours/Nomenclature.md",
+    "Sommaire Maths.md",
+    "Cours/Logique.md",
+    "Cours/Applications linéaires.md",
+    "Cours/Fonctions de la variable réelle.md",
+    "Cours/Espace vectoriel.md",
+    "index.md",
+    "Cours/Intervalle et voisinage.md",
+    "Cours/Suites numériques.md",
+    "Cours/Continuité.md",
+    "README.md",
+    "Sommaire Physiques.md",
+    "Preuves/Preuve GL est un groupe.md",
+    "Exercices/Exponentielle et logarithmes.md",
+    "Cours/Théorème des gendarmes.md",
     "Cours/Théorème des accroissements finis.md",
     "Cours/Systèmes linéaires.md",
-    "Cours/Applications linéaires.md",
-    "Cours/Développements généralisés.md",
-    "Cours/Déterminants.md",
-    "Cours/Bases locales.md",
-    "Cours/Binôme de newton.md",
-    "Média/Pasted image 20240803181444.png",
-    "Média/Pasted image 20240710181517.png",
-    "Média/graph_1.png",
-    "Média/continuity.jpg",
-    "Média/cartesian_coordinates.png",
-    "Média/Big_O_Complexity.png",
-    "Média/Area_parallellogram_as_determinant.png",
-    "Média/accroissement_fini.png.png",
-    "Sommaire Physiques.md",
-    "README.md",
-    "Sommaire Maths.md",
-    "Test.md",
     "Cours/Systèmes de coordonnées.md",
-    "Cours/Développements limités.md",
-    "Cours/Nombres complexes.md",
-    "Cours/Polynomes.md",
-    "Pasted image 20240806155836.png",
-    "Exercices/Exponentielle et logarithmes.md",
-    "Cours/Régime transitoire.md",
+    "Cours/Structure de groupes.md",
+    "Cours/Sommes et produits.md",
+    "Cours/Séries numériques.md",
+    "Cours/Série de Reimann.md",
+    "Cours/Relation binaire.md",
+    "Pasted image 20240727184425.png",
+    "Cours/cylindrical_coordinates.png",
+    "Média/cartesian_coordinates.png",
+    "Média/limits.png",
+    "Média/continuity.jpg",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
