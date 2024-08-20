@@ -3,5 +3,7 @@
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
   "obsidian-charts",
-  "webpage-html-export"
+  "webpage-html-export",
+  "calendar",
+  "obsidian-git"
 ]

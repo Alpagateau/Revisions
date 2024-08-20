@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7d27f3b8b72253a",
+            "id": "e854beb4e04b4605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Nomenclature.md",
+                "file": "Cours/Configuration Atomique.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5be438e4b4c9d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nombres quantiques.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,14 +34,15 @@
             }
           },
           {
-            "id": "280dfb3a1133e3c4",
+            "id": "cf453384d2f6afdc",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Nomenclature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Nomenclature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cours/Nomenclature.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,6 +153,14 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "a95931408d8381cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -164,16 +182,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d7d27f3b8b72253a",
+  "active": "997d54568c001c7c",
   "lastOpenFiles": [
+    "Cours/Nomenclature.md",
+    "Sommaire Maths.md",
+    "Cours/Configuration Atomique.md",
+    "Nombres quantiques.md",
+    "Cours/Séries numériques.md",
+    "Cours/Formules de Taylor.md",
+    "Index.md",
+    "Cours/Régime transitoire.md",
+    "Sommaire Chimie.md",
+    "Média/Klechkowski.png",
+    "Pasted image 20240820171353.png",
+    "README.md",
+    "WIP",
+    "WIP/PLib.md",
+    "WIP/FFT.md",
     "Preuves/Preuve GL est un groupe.md",
     "Média/RamificationHydroxyle.png",
     "Cours/Intégration.md",
-    "Cours/Nomenclature.md",
-    "Sommaire Chimie.md",
     "Exercices/DS Commun 2022.md",
     "Cours/Fonctions trigonométriques.md",
-    "Cours/Séries numériques.md",
     "Cours/Comparaisons locale de fonctions.md",
     "Cours/Théorème des accroissements finis.md",
     "Cours/Systèmes linéaires.md",
@@ -189,18 +219,8 @@
     "Média/cartesian_coordinates.png",
     "Média/Big_O_Complexity.png",
     "Média/Area_parallellogram_as_determinant.png",
-    "Média/accroissement_fini.png.png",
     "Sommaire Physiques.md",
-    "README.md",
-    "Sommaire Maths.md",
     "Test.md",
-    "Cours/Systèmes de coordonnées.md",
-    "Cours/Développements limités.md",
-    "Cours/Nombres complexes.md",
-    "Cours/Polynomes.md",
-    "Pasted image 20240806155836.png",
-    "Exercices/Exponentielle et logarithmes.md",
-    "Cours/Régime transitoire.md",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
