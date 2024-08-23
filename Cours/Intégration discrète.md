@@ -16,6 +16,7 @@ $$
 Il faut alors résoudre pour $y_{n+1}$. Des méthodes comme la **méthode de Newton** peuvent être utilisées. Cette méthode est souvent plus stable que la méthode directe, mais plus lourde en calcul. 
 
 ## Méthode Runge-Kutta
+[Video sur RK4](https://www.youtube.com/watch?v=dShtlMl69kY)
 Soit les valeurs de départ suivantes :
 $$
 y' = f(t, y), \quad y(t_0) = y_0

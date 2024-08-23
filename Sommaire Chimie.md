@@ -3,5 +3,7 @@
 
 
 ## Structure de la matière
-- [ ] [[Configuration Atomique]]
-- [ ] [[Nombres quantiques]]
+- [x] [[Configuration Atomique]]
+- [x] [[Nombres quantiques]]
+- [ ] [[Energie d'ionisation]]
+

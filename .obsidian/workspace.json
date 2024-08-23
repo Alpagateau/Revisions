@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "57f3370f806f90f8",
+        "id": "e0db839bab790f48",
         "type": "tabs",
         "children": [
           {
-            "id": "e854beb4e04b4605",
+            "id": "02ad9ebf1b1badaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Configuration Atomique.md",
+                "file": "Sommaire Maths.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5be438e4b4c9d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nombres quantiques.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf453384d2f6afdc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,6 +32,7 @@
       {
         "id": "4b88b29f3847b569",
         "type": "tabs",
+        "dimension": 68.2983682983683,
         "children": [
           {
             "id": "997d54568c001c7c",
@@ -89,6 +68,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "5eb29cd69328fe3b",
+        "type": "tabs",
+        "dimension": 31.701631701631705,
+        "children": [
+          {
+            "id": "f5be438e4b4c9d69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sommaire Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sommaire Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sommaire Maths.md"
+              }
             }
           },
           {
@@ -179,20 +177,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "997d54568c001c7c",
+  "active": "02ad9ebf1b1badaf",
   "lastOpenFiles": [
-    "Cours/Nomenclature.md",
+    "Index.md",
+    "Cours/Oscillateur Harmonique.md",
+    "Cours/Régime apériodique.md",
+    "Sommaire Physiques.md",
+    "Cours/Régime pseudo-périodique.md",
     "Sommaire Maths.md",
+    "Cours/Régime transitoire.md",
+    "Cours/HarmonicOsc1.png",
+    "Cours/Systèmes de coordonnées.md",
+    "WIP/Règle de Slater.md",
+    "Sommaire Chimie.md",
+    "Cours/Energie d'ionisation.md",
+    "Cours/Nombres quantiques.md",
+    "Structure de la matière.md",
     "Cours/Configuration Atomique.md",
-    "Nombres quantiques.md",
+    "Cours/Intégration discrète.md",
+    "Cours/Intégration.md",
+    "Cours/Nomenclature.md",
     "Cours/Séries numériques.md",
     "Cours/Formules de Taylor.md",
-    "Index.md",
-    "Cours/Régime transitoire.md",
-    "Sommaire Chimie.md",
     "Média/Klechkowski.png",
     "Pasted image 20240820171353.png",
     "README.md",
@@ -201,26 +211,15 @@
     "WIP/FFT.md",
     "Preuves/Preuve GL est un groupe.md",
     "Média/RamificationHydroxyle.png",
-    "Cours/Intégration.md",
     "Exercices/DS Commun 2022.md",
     "Cours/Fonctions trigonométriques.md",
     "Cours/Comparaisons locale de fonctions.md",
-    "Cours/Théorème des accroissements finis.md",
-    "Cours/Systèmes linéaires.md",
-    "Cours/Applications linéaires.md",
-    "Cours/Développements généralisés.md",
-    "Cours/Déterminants.md",
-    "Cours/Bases locales.md",
-    "Cours/Binôme de newton.md",
     "Média/Pasted image 20240803181444.png",
     "Média/Pasted image 20240710181517.png",
     "Média/graph_1.png",
     "Média/continuity.jpg",
     "Média/cartesian_coordinates.png",
     "Média/Big_O_Complexity.png",
-    "Média/Area_parallellogram_as_determinant.png",
-    "Sommaire Physiques.md",
-    "Test.md",
     "Exercices",
     "Untitled.canvas",
     "Side projects",

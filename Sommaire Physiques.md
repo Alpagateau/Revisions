@@ -4,7 +4,7 @@
 2. [ ] Cinématique du point
 3. [ ] Dynamique du point
 4. [ ] Energétique du point
-5. [ ] Oscillateur harmoniques a un degré de liberté
+5. [ ] [[Oscillateur Harmonique|Oscillateur harmoniques a un degré de liberté]]
 6. [ ] Oscillations forcées
 7. [ ] Théorème du mouvement cinétique
 8. [ ] Forces conservatives
