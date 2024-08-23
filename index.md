@@ -1,9 +1,5 @@
-Bienvenu
-Ce site est un premier jet, il est amené a évoluer avec le temps.
-## Sommaires
-- [[Sommaire Maths]]
-- [[Sommaire Physiques]]
+Ce Vault a pour objectif de compiler un maximum de cours de prépa, dans le but de rentre les revisions plus simples. 
 
-## Contribution
-Pour aider au contenu du site, merci de contribuer au repo [Révision](https://github.com/Alpagateau/Revisions)
-Pour contribuer a la mise en place du site, veuillez contribuer au repo [Classes](https://github.com/Alpagateau/Classes/).
+- [[Sommaire Chimie|Chimie]]
+- [[Sommaire Physiques|Physiques]]
+- [[Sommaire Maths|Maths]]
