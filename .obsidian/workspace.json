@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sommaire Maths.md",
-                "mode": "preview",
+                "file": "Schéma de Thévenin-Norton.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "93064418fe87e6b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sommaire Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sommaire Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sommaire Maths.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,45 +186,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "02ad9ebf1b1badaf",
+  "active": "f5be438e4b4c9d69",
   "lastOpenFiles": [
+    "Schéma de Thévenin-Norton.md",
     "Index.md",
-    "Cours/Oscillateur Harmonique.md",
-    "Cours/Régime apériodique.md",
+    "Cours/Thevenin Norton.png",
+    "Cours/Puissance Electrique.md",
+    "Cours/Ecriture complexe et Impédances.md",
+    "Média/Pasted image 20240803181444.png",
+    "Média/CircuitExemple1.png",
+    "Média/Pasted image 20240710225930.png",
+    "Média/Pasted image 20240710181517.png",
+    "DC-Maths 2016.md",
     "Sommaire Physiques.md",
-    "Cours/Régime pseudo-périodique.md",
+    "Cours/Bases locales.md",
     "Sommaire Maths.md",
+    "README.md",
+    "Exercices/DC-Physique 2022.md",
+    "Cours/Equations différentielles linéaires.md",
+    "Cours/Régime pseudo-périodique.md",
+    "Cours/Oscillateur Harmonique.md",
+    "Cours/Structure de groupes.md",
+    "index.md",
+    "Sommaire Chimie.md",
+    "Cours/Comparaisons locale de fonctions.md",
+    "Exercices/Exercices.md",
+    "Cours/Matrices.md",
+    "Cours/Nombres quantiques.md",
+    "Cours/Configuration Atomique.md",
+    "Cours/Espace vectoriel.md",
+    "Cours/Régime apériodique.md",
     "Cours/Régime transitoire.md",
     "Cours/HarmonicOsc1.png",
     "Cours/Systèmes de coordonnées.md",
-    "WIP/Règle de Slater.md",
-    "Sommaire Chimie.md",
-    "Cours/Energie d'ionisation.md",
-    "Cours/Nombres quantiques.md",
-    "Structure de la matière.md",
-    "Cours/Configuration Atomique.md",
-    "Cours/Intégration discrète.md",
-    "Cours/Intégration.md",
-    "Cours/Nomenclature.md",
-    "Cours/Séries numériques.md",
-    "Cours/Formules de Taylor.md",
     "Média/Klechkowski.png",
     "Pasted image 20240820171353.png",
-    "README.md",
     "WIP",
-    "WIP/PLib.md",
-    "WIP/FFT.md",
-    "Preuves/Preuve GL est un groupe.md",
     "Média/RamificationHydroxyle.png",
-    "Exercices/DS Commun 2022.md",
-    "Cours/Fonctions trigonométriques.md",
-    "Cours/Comparaisons locale de fonctions.md",
-    "Média/Pasted image 20240803181444.png",
-    "Média/Pasted image 20240710181517.png",
     "Média/graph_1.png",
-    "Média/continuity.jpg",
-    "Média/cartesian_coordinates.png",
-    "Média/Big_O_Complexity.png",
     "Exercices",
     "Untitled.canvas",
     "Side projects",

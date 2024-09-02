@@ -35,7 +35,7 @@ d'amortissemnt (la friction ou la resistance).
 
 On a alors une équation différentielle de la forme :
 $$
-\ddot x + {\omega_0 \over Q} \dot x + \omega_0^2 = 0 
+\ddot x + {\omega_0 \over Q} \dot x + \omega_0^2 x = 0 
 $$
 Où $Q$ est tel que:
 $$

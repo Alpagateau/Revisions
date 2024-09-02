@@ -10,5 +10,17 @@
 8. [ ] Forces conservatives
 9. [ ] Changements de référentiels
 
+## Electronique
+10. [ ] [[Ecriture complexe et Impédances]]
+11. [ ] [[Puissance Electrique]]
+12. [ ] [[Schéma de Thévenin-Norton]]
+
+## Thermodynamique
+10. [ ] Machines thermiques
+11. [ ] Cycles
+
 ## Misc
-10. [ ] [[Régime transitoire]]
+12. [ ] [[Régime transitoire]]
+
+---
+- [[DC-Physique 2022]] 
