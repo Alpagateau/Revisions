@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schéma de Thévenin-Norton.md",
+                "file": "Cours/Méthode Acide-Bases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "93064418fe87e6b6",
+            "id": "7f174c3aee296805",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Méthode Acide-Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/Méthode Acide-Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cours/Méthode Acide-Bases.md"
+              }
             }
           },
           {
@@ -186,44 +190,45 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f5be438e4b4c9d69",
+  "active": "02ad9ebf1b1badaf",
   "lastOpenFiles": [
-    "Schéma de Thévenin-Norton.md",
-    "Index.md",
+    "Cours/Décomposition en éléments simples.md",
+    "Cours/Méthode Acide-Bases.md",
+    "Cours/Constante d'équilibre.md",
+    "Méthode Acide-Bases Diagramme de prédominance.md",
+    "Sommaire Chimie.md",
+    "Cours/Schéma de Thévenin-Norton.md",
+    "README.md",
+    "Sommaire Physiques.md",
+    "Sommaire Maths.md",
+    "Exercices/DC-Physique 2022.md",
+    "Exercices/DC-Maths 2016.md",
     "Cours/Thevenin Norton.png",
     "Cours/Puissance Electrique.md",
     "Cours/Ecriture complexe et Impédances.md",
-    "Média/Pasted image 20240803181444.png",
-    "Média/CircuitExemple1.png",
-    "Média/Pasted image 20240710225930.png",
-    "Média/Pasted image 20240710181517.png",
-    "DC-Maths 2016.md",
-    "Sommaire Physiques.md",
-    "Cours/Bases locales.md",
-    "Sommaire Maths.md",
-    "README.md",
-    "Exercices/DC-Physique 2022.md",
-    "Cours/Equations différentielles linéaires.md",
-    "Cours/Régime pseudo-périodique.md",
+    "Transformée de Laplace.md",
+    "Index.md",
     "Cours/Oscillateur Harmonique.md",
-    "Cours/Structure de groupes.md",
-    "index.md",
-    "Sommaire Chimie.md",
-    "Cours/Comparaisons locale de fonctions.md",
-    "Exercices/Exercices.md",
-    "Cours/Matrices.md",
-    "Cours/Nombres quantiques.md",
-    "Cours/Configuration Atomique.md",
-    "Cours/Espace vectoriel.md",
     "Cours/Régime apériodique.md",
+    "Cours/Régime pseudo-périodique.md",
     "Cours/Régime transitoire.md",
     "Cours/HarmonicOsc1.png",
     "Cours/Systèmes de coordonnées.md",
+    "WIP/Règle de Slater.md",
+    "Cours/Energie d'ionisation.md",
+    "Cours/Nombres quantiques.md",
+    "Structure de la matière.md",
+    "Cours/Configuration Atomique.md",
+    "Cours/Intégration discrète.md",
     "Média/Klechkowski.png",
     "Pasted image 20240820171353.png",
     "WIP",
     "Média/RamificationHydroxyle.png",
+    "Média/Pasted image 20240803181444.png",
+    "Média/Pasted image 20240710181517.png",
     "Média/graph_1.png",
+    "Média/continuity.jpg",
+    "Média/cartesian_coordinates.png",
     "Exercices",
     "Untitled.canvas",
     "Side projects",
