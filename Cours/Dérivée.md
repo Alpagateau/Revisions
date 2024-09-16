@@ -42,6 +42,7 @@ Soit $I$ le domaine de définition de $u$ et $D$ le domaine de $v$.
 | $\frac{u}{v}$    | $\frac{u'v + uv'}{v^2}$    | $(I \cap D)/\{x, v(x)=0\}$ |
 | $u \circ v$      | $v' \times (u' \circ v)$   | $I$                        |
 | $u^{-1}$         | $\frac{1}{u'(u^{-1})}$     | $I$                        |
+
 ## Dérivés successives
 On note $f''$ la seconde dérivée de $f$, puis, de manière plus générale, $f^{(n)}$ est la dérivée $n$-ième de $f$. 
 Si une fonction est dérivable $n$ fois, alors sa dérivée $(n-1)$-ième est continue, et toutes ses dérivées jusqu'à $(n-1)$ sont continues. 
