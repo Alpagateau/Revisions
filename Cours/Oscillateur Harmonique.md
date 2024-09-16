@@ -3,7 +3,7 @@ Un **oscillateur harmonique** est un model idéal d'oscillateur dont l'évolutio
 Les oscillateurs sont en réalité des cas particuliers des [[Equations différentielles linéaires#Equations différentielles du second ordre|équations différentielles du second ordre]].
 
 ## OH simple
-Que l'on considère un circuit électrique ou un système mécanique, si on étudie une oscillation parfaite et sans amortissement,on cherche une équation différentielle de la forme :
+Que l'on considère un circuit électrique ou un système mécanique, si on étudie une oscillation parfaite et sans amortissement, on cherche une équation différentielle de la forme :
 $$
 \ddot x + \omega_0^2x = \lambda
 $$
@@ -21,15 +21,22 @@ On auras donc un graph de la forme :
 
 > Voici un exemple de résolution avec un [[Oscillateur Harmonique Masse Ressort|système masse ressort]]
 
+Pour se ramener a une équation nulle, il peut être utile de considérer l'élongation $u = x - x_0$. Ainsi, on obtient :
+$$
+\begin{align}
+\ddot u + w^2u &= 0 \\
+u(t) &= Acos(w_0t + \phi)
+\end{align}
+$$
 ## OH amortie 
 
-Dans le monde réel, un oscillateur harmonique perd de l'energie a chaque oscillation. On appel cela, l'amortissement.
-Celui ci est proportionnel a la `vitesse`, c'est a dire a la dérivé de la quantité étuidée. On pose alors une seconde force, $F$, dans le sens contraire de la vitesse. 
+Dans le monde réel, un oscillateur harmonique perd de l'énergie a chaque oscillation. On appel cela, l'amortissement.
+Celui ci est proportionnel a la `vitesse`, c'est a dire a la dérivé de la quantité étudiée. On pose alors une seconde force, $F$, dans le sens contraire de la vitesse. 
 $$
 F = -\mu \dot x 
 $$
-On a alors deux forces qui s'appliques sur notre systeme. La force de l'oscillation (le ressort ou la bobine/condensateur) ainsi que la force 
-d'amortissemnt (la friction ou la resistance).
+On a alors deux forces qui s'appliques sur notre système. La force de l'oscillation (le ressort ou la bobine/condensateur) ainsi que la force 
+d'amortissement (la friction ou la résistance).
 > On considère ici l'[analogie électro mécanique](https://fr.wikipedia.org/wiki/Analogie_%C3%A9lectro-m%C3%A9canique)
 > Ainsi, dans la suite, on décrira la masse pour parler a la fois de masse et d'inductance, ainsi que la friction pour parler de la friction mécanique ou de la résistance électrique. 
 

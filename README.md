@@ -1,5 +1,5 @@
 # Révisions
-Des cours de maths et physiques niveau prépa, ecrit par des élèves pour des élèves. 
+Des cours de maths et physiques niveau prépa, écrit par des élèves pour des élèves. 
 ![graph1](https://github.com/user-attachments/assets/d4dedd96-888f-4a36-a38a-b9051f2c1c6d)
 
 ## Installation

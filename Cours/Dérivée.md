@@ -27,20 +27,21 @@ Les dérivées sont stables par combinaisons linéaires.
 
 ^du
 ## Operations entre dérivés
+Soit $I$ le domaine de définition de $u$ et $D$ le domaine de $v$.
 
-| Fonction         | Dérivée                    | Domaine                |
-| ---------------- | -------------------------- | ---------------------- |
-| $u^a$            | $a \cdot u' \cdot u^{a-1}$ | dépend de $a$          |
-| $\frac{1}{u}$    | $-\frac{u'}{u^2}$          | Si $u$ ne s'annule pas |
-| $ln \mid u \mid$ | $\frac{u'}{u}$             | si $u$ n s'annule pas  |
-| $e^u$            | $u' \cdot e^u$             |                        |
-| $cos(u)$         | $-u' \cdot sin(u)$         |                        |
-| $sin(u)$         | $u' \cdot cos(u)$          |                        |
-| $tan(u)$         | $\frac{u'}{cos^2(u)}$      |                        |
-| $u \cdot v$      | $u'v + uv'$                |                        |
-| $\frac{u}{v}$    | $\frac{u'v + uv'}{v^2}$    |                        |
-| $u \circ v$      | $v' \times (u' \circ v)$   |                        |
-| $u^{-1}$         | $\frac{1}{f'(f^{-1})}$     |                        |
+| Fonction         | Dérivée                    | Domaine                    |
+| ---------------- | -------------------------- | -------------------------- |
+| $u^a$            | $a \cdot u' \cdot u^{a-1}$ | dépend de $a$              |
+| $\frac{1}{u}$    | $-\frac{u'}{u^2}$          | Si $u$ ne s'annule pas     |
+| $ln \mid u \mid$ | $\frac{u'}{u}$             | si $u$ n s'annule pas      |
+| $e^u$            | $u' \cdot e^u$             | $I$                        |
+| $cos(u)$         | $-u' \cdot sin(u)$         | $I$                        |
+| $sin(u)$         | $u' \cdot cos(u)$          | $I$                        |
+| $tan(u)$         | $\frac{u'}{cos^2(u)}$      | $I$                        |
+| $u \cdot v$      | $u'v + uv'$                | $I \cap D$                 |
+| $\frac{u}{v}$    | $\frac{u'v + uv'}{v^2}$    | $(I \cap D)/\{x, v(x)=0\}$ |
+| $u \circ v$      | $v' \times (u' \circ v)$   | $I$                        |
+| $u^{-1}$         | $\frac{1}{u'(u^{-1})}$     | $I$                        |
 ## Dérivés successives
 On note $f''$ la seconde dérivée de $f$, puis, de manière plus générale, $f^{(n)}$ est la dérivée $n$-ième de $f$. 
 Si une fonction est dérivable $n$ fois, alors sa dérivée $(n-1)$-ième est continue, et toutes ses dérivées jusqu'à $(n-1)$ sont continues. 

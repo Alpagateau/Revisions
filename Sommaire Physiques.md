@@ -19,6 +19,11 @@
 10. [ ] Machines thermiques
 11. [ ] Cycles
 
+## Propagation des ondes
+13. [ ] [[Ondes mécaniques]]
+	1. [ ] [[Ondes acoustiques]]
+14. [ ] Ondes électromagnétiques  
+
 ## Misc
 12. [ ] [[Régime transitoire]]
 
