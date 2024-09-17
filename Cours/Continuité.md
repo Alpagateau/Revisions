@@ -25,10 +25,10 @@ On considère $f$ discontinue d'ordre 1, cet a dire que ses limites a gauche et 
 Cet a dire qu'on peut poser une fonction $\tilde f$ défini par :
 $$
     \tilde f(x)= 
-\begin{dcases}
+\begin{cases}
     f(x),& x \ne x_0 \\
     \lim_{x \to x_0} f(x),              & \text{otherwise}
-\end{dcases}
+\end{cases}
 $$
 Un exemple utile en physique est la fonction **sinus cardinal**
 $$
@@ -37,10 +37,10 @@ $$
 $S$ n'est pas défini en 0, mais on la prolonge par continuité tel que : 
 $$
     \tilde S(x)= 
-\begin{dcases}
+\begin{cases}
     {sin(x)\over x},& x \ne 0 \\
     1,              & x = 0
-\end{dcases}
+\end{cases}
 $$
 ## Caractérisation séquentielle
 Parfois, pour étudier la limite d'une fonction en un point $x_0$, il est plus facile de le faire via une [[Suites numériques|suite]] qui tend vers $x_0$. Ce procédé s'appelle la **caractérisation séquentielle**. Le théorème s'écrit ainsi :

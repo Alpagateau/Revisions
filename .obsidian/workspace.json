@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "322660ef3be23334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ondes acoustiques.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4553af8d8af5ee50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Dérivée.md",
-                "mode": "source",
+                "file": "Cours/Continuité.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Dérivée.md",
+                "file": "Cours/Continuité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Dérivée.md",
+                "file": "Cours/Continuité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Dérivée.md"
+                "file": "Cours/Continuité.md"
               }
             }
           },
@@ -196,8 +182,9 @@
   },
   "active": "4553af8d8af5ee50",
   "lastOpenFiles": [
-    "Cours/Oscillateur Harmonique.md",
+    "Cours/Dérivée.md",
     "Ondes acoustiques.md",
+    "Cours/Oscillateur Harmonique.md",
     "Side projects/Idées de projets.md",
     "Cours/Déterminants.md",
     "Média/wagons.png",
@@ -224,7 +211,6 @@
     "Cours/Constante d'équilibre.md",
     "Méthode Acide-Bases Diagramme de prédominance.md",
     "Cours/Schéma de Thévenin-Norton.md",
-    "Exercices/DC-Physique 2022.md",
     "Cours/Thevenin Norton.png",
     "Cours/HarmonicOsc1.png",
     "Média/Klechkowski.png",
