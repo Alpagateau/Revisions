@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Continuité.md",
+                "file": "Cours/Reduction d'endomorphisme.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Continuité.md",
+                "file": "Cours/Reduction d'endomorphisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Continuité.md",
+                "file": "Cours/Reduction d'endomorphisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Continuité.md"
+                "file": "Cours/Reduction d'endomorphisme.md"
               }
             }
           },
@@ -182,36 +182,36 @@
   },
   "active": "4553af8d8af5ee50",
   "lastOpenFiles": [
-    "Cours/Dérivée.md",
-    "Ondes acoustiques.md",
-    "Cours/Oscillateur Harmonique.md",
-    "Side projects/Idées de projets.md",
-    "Cours/Déterminants.md",
-    "Média/wagons.png",
-    "Sommaire Physiques.md",
-    "Cours/Ondes mécaniques.md",
-    "Sommaire Maths.md",
-    "Cours/Reduction d'endomorphisme.md",
-    "README.md",
+    "Cours/Régime apériodique.md",
+    "Cours/Régime pseudo-périodique.md",
+    "Cours/Régime transitoire.md",
+    "Cours/Relation binaire.md",
+    "Cours/Schéma de Thévenin-Norton.md",
+    "Cours/Série de Reimann.md",
+    "Cours/Sommes et produits.md",
+    "Cours/Structure de groupes.md",
     "Cours/Suites numériques.md",
+    "Cours/Systèmes de coordonnées.md",
+    "Cours/Systèmes linéaires.md",
+    "Cours/Théorème des accroissements finis.md",
+    "Cours/Théorème des gendarmes.md",
+    "Média/Thevenin Norton.png",
+    "Cours/Calcul Polynomial.md",
+    "Cours/Comparaisons locale de fonctions.md",
+    "Cours/Configuration Atomique.md",
+    "Cours/Constante d'équilibre.md",
+    "Cours/Continuité.md",
+    "Cours/Bases locales.md",
+    "Cours/Applications linéaires.md",
+    "Cours/Matrices.md",
+    "Sommaire Chimie.md",
     "Cours/Ensembles.md",
-    "Cours/Développements limités.md",
+    "Sommaire Maths.md",
+    "Cours/Intégration.md",
+    "Cours/Dérivée.md",
+    "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
     "Média/Grid.png",
-    "Cours/Théorème des accroissements finis.md",
-    "Sommaire Chimie.md",
-    "Cours/Applications linéaires.md",
-    "Cours/Formules de Taylor.md",
-    "Index.md",
-    "Cours/Probabilités.md",
-    "Cours/Régime transitoire.md",
-    "Cours/Logique.md",
-    "Cours/Méthode Acide-Bases.md",
-    "Cours/Décomposition en éléments simples.md",
-    "Cours/Constante d'équilibre.md",
-    "Méthode Acide-Bases Diagramme de prédominance.md",
-    "Cours/Schéma de Thévenin-Norton.md",
-    "Cours/Thevenin Norton.png",
     "Cours/HarmonicOsc1.png",
     "Média/Klechkowski.png",
     "Pasted image 20240820171353.png",
