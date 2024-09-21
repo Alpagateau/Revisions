@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "3926509ba98badcb",
   "lastOpenFiles": [
+    "Index.md",
+    "index.md",
     "Cours/Suites numériques.md",
     "Cours/Théorème des gendarmes.md",
     "Cours/Ensembles.md",
@@ -207,8 +209,6 @@
     "Cours/Applications linéaires.md",
     "Cours/Matrices.md",
     "Sommaire Chimie.md",
-    "Sommaire Maths.md",
-    "Cours/Intégration.md",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
     "Média/Grid.png",
