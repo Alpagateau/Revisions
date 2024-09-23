@@ -24,11 +24,17 @@
             "id": "4911e182e02f9d33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Intégration discrète.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Analyse Vectorielle.md",
+                "file": "Cours/Intégration discrète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Analyse Vectorielle.md",
+                "file": "Cours/Intégration discrète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Analyse Vectorielle.md"
+                "file": "Cours/Intégration discrète.md"
               }
             }
           },
@@ -188,10 +194,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3926509ba98badcb",
+  "active": "4911e182e02f9d33",
   "lastOpenFiles": [
-    "Cours/Divergence.md",
     "Cours/Analyse Vectorielle.md",
+    "Cours/Divergence.md",
     "Cours/Systèmes de coordonnées.md",
     "Média/Gradient2.svg.png",
     "Média/HarmonicOsc1.png",

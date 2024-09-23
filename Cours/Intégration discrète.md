@@ -43,14 +43,15 @@ $$
 k_i &= f(t_n + c_i, y_n + \sum_{j=1}^{i-1} a_{ij}k_j)
 \end{align}
 $$
-Pour calculer $a$, $b$ et $c$, voir [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods). 
+Pour calculer $a$, $b$ et $c$, voir [Runge Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods). 
+
 ## Intégration exponentielle de premier ordre
-Ici, on suppose que l'equation est de la forme suivante : 
+Ici, on suppose que l'équation est de la forme suivante : 
 Soit $A$ un scalaire et $N(y)$ un terme non-linéaire :
 $$
 y'(t)=-Ay + N(y) 
 $$
-Pour intégrer, on considère $N(y)$ constant sur un interval $h$. On obtiens alors, par intégration : 
+Pour intégrer, on considère $N(y)$ constant sur un intervalle $h$. On obtiens alors, par intégration : 
 $$
 \displaystyle
 y_{n+1} = e^{-Ah} + A^{-1}(1-e^{-Ah}) N(y(t_n))
