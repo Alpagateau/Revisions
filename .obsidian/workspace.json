@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3926509ba98badcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradient.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb31f8193bd8abd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Systèmes de coordonnées.md",
+                "file": "Gradient.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -193,8 +180,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3926509ba98badcb",
+  "active": "bb31f8193bd8abd1",
   "lastOpenFiles": [
+    "Cours/Systèmes de coordonnées.md",
+    "Gradient.md",
     "Valeur propre.md",
     "Média/HarmonicOsc1.png",
     "Média/Gradient2.svg.png",
@@ -202,10 +191,8 @@
     "Cours/Gradient.md",
     "Cours/Divergence.md",
     "Nabla.md",
-    "Gradient.md",
     "Cours/Analyse Vectorielle.md",
     "Cours/Champs de vecteurs.md",
-    "Cours/Systèmes de coordonnées.md",
     "Sommaire Physiques.md",
     "Cours/Ondes acoustiques.md",
     "index.md",
