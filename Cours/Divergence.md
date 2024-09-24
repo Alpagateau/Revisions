@@ -1,0 +1,2 @@
+## Définition
+La **divergence** est un opérateur qui permet de mesurer la **divergence** d'un champ de vecteur; c'est a dire, la `quantité` de vecteurs entrants contre la `quantité` de vecteurs sortant. Celle-ci est positive pour des points de divergence, et négatives dans les cas de convergence. 
