@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nabla.md",
+                "file": "Gradient.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nabla.md",
+                "file": "Gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nabla.md",
+                "file": "Gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nabla.md"
+                "file": "Gradient.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "3926509ba98badcb",
   "lastOpenFiles": [
-    "Cours/Analyse Vectorielle.md",
     "Nabla.md",
+    "Gradient.md",
+    "Cours/Analyse Vectorielle.md",
     "Cours/Champs de vecteurs.md",
     "Cours/Systèmes de coordonnées.md",
     "Sommaire Physiques.md",
@@ -221,7 +222,6 @@
     "Cours/Calcul Polynomial.md",
     "Cours/Comparaisons locale de fonctions.md",
     "Cours/Configuration Atomique.md",
-    "Cours/Constante d'équilibre.md",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
     "Média/Grid.png",
