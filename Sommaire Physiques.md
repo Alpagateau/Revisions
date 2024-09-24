@@ -22,8 +22,7 @@
 ## Propagation des ondes
 13. [ ] [[Ondes mécaniques]]
 	1. [ ] [[Ondes acoustiques]]
-14. [ ] [[Ondes électromagnétiques]]
-	1. [ ] [[Analyse Vectorielle]]
+14. [ ] Ondes électromagnétiques  
 
 ## Misc
 12. [ ] [[Régime transitoire]]

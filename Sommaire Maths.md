@@ -26,6 +26,8 @@
 19. [x] [[Matrices]] 
 20. [x] [[Déterminants]]
 21. [ ] [[Probabilités]]
+22. [ ] [[Reduction d'endomorphisme]]
+	1. [ ] [[Valeur propre]]
 
 ## Exercices
 [[Exercices]]
