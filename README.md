@@ -30,3 +30,5 @@ Pour utiliser au mieux ces fiches, ouvrez simplement obsidian. Ouvrez soit le so
 
 ## Contactes
 Contactez moi sur [twitter](https://x.com/alpagames3) ou dans l'onglet Issues
+Ou :
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alpa_)
