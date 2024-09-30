@@ -4,5 +4,6 @@
   "obsidian-tasks-plugin",
   "obsidian-charts",
   "calendar",
-  "obsidian-functionplot"
+  "obsidian-functionplot",
+  "obsidian-tikzjax"
 ]

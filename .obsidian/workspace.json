@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               }
             }
           },
@@ -182,16 +182,18 @@
   },
   "active": "bb31f8193bd8abd1",
   "lastOpenFiles": [
-    "README.md",
+    "Cours/Intégration discrète.md",
     "Sommaire Maths.md",
+    "README.md",
+    "Index.md",
+    "index.md",
+    "Valeur propre.md",
     "Sommaire Chimie.md",
     "Sommaire Physiques.md",
     "Informatique.md",
-    "Index.md",
     "Cours/Calcul Polynomial.md",
     "Cours/Reduction d'endomorphisme.md",
     "Cours/Nabla.md",
-    "index.md",
     "Cours/Analyse Vectorielle.md",
     "Cours/Gradient.md",
     "Cours/Gradient 1.md",
@@ -208,8 +210,6 @@
     "Cours/Théorème des gendarmes.md",
     "Cours/Ensembles.md",
     "Cours/Régime apériodique.md",
-    "Cours/Régime pseudo-périodique.md",
-    "Cours/Régime transitoire.md",
     "Média/Thevenin Norton.png",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
