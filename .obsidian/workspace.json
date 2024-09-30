@@ -13,8 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Nabla.md",
-                "mode": "preview",
+                "file": "Sommaire Maths.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b640dec962541b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35b68642b62bf563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Nabla.md",
+                "file": "Sommaire Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Nabla.md",
+                "file": "Sommaire Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Nabla.md"
+                "file": "Sommaire Maths.md"
               }
             }
           },
@@ -182,34 +208,34 @@
   },
   "active": "bb31f8193bd8abd1",
   "lastOpenFiles": [
+    "Cours/Calcul Polynomial.md",
+    "Cours/Reduction d'endomorphisme.md",
+    "Cours/Nabla.md",
+    "index.md",
+    "Info.md",
     "Cours/Analyse Vectorielle.md",
     "Sommaire Physiques.md",
     "Cours/Gradient.md",
     "Cours/Gradient 1.md",
     "Cours/Laplacien.md",
     "Cours/Divergence.md",
-    "index.md",
     "Index.md",
     "Cours/Systèmes de coordonnées.md",
     "Cours/Valeur propre.md",
     "Média/HarmonicOsc1.png",
     "Média/Gradient2.svg.png",
-    "Cours/Nabla.md",
     "Nabla.md",
     "Cours/Champs de vecteurs.md",
     "Cours/Ondes acoustiques.md",
     "Cours/Suites numériques.md",
     "Cours/Théorème des gendarmes.md",
     "Cours/Ensembles.md",
-    "Cours/Reduction d'endomorphisme.md",
     "Cours/Régime apériodique.md",
     "Cours/Régime pseudo-périodique.md",
     "Cours/Régime transitoire.md",
     "Cours/Relation binaire.md",
     "Cours/Schéma de Thévenin-Norton.md",
     "Cours/Série de Reimann.md",
-    "Cours/Sommes et produits.md",
-    "Cours/Structure de groupes.md",
     "Média/Thevenin Norton.png",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
