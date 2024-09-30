@@ -13,34 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sommaire Maths.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b640dec962541b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35b68642b62bf563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Info.md",
-                "mode": "source",
+                "file": "Sommaire Physiques.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -128,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sommaire Maths.md",
+                "file": "Sommaire Physiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sommaire Maths.md",
+                "file": "Sommaire Physiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sommaire Maths.md"
+                "file": "Sommaire Physiques.md"
               }
             }
           },
@@ -208,18 +182,20 @@
   },
   "active": "bb31f8193bd8abd1",
   "lastOpenFiles": [
+    "Sommaire Maths.md",
+    "Sommaire Chimie.md",
+    "Sommaire Physiques.md",
+    "Informatique.md",
+    "Index.md",
     "Cours/Calcul Polynomial.md",
     "Cours/Reduction d'endomorphisme.md",
     "Cours/Nabla.md",
     "index.md",
-    "Info.md",
     "Cours/Analyse Vectorielle.md",
-    "Sommaire Physiques.md",
     "Cours/Gradient.md",
     "Cours/Gradient 1.md",
     "Cours/Laplacien.md",
     "Cours/Divergence.md",
-    "Index.md",
     "Cours/Systèmes de coordonnées.md",
     "Cours/Valeur propre.md",
     "Média/HarmonicOsc1.png",
@@ -234,8 +210,6 @@
     "Cours/Régime pseudo-périodique.md",
     "Cours/Régime transitoire.md",
     "Cours/Relation binaire.md",
-    "Cours/Schéma de Thévenin-Norton.md",
-    "Cours/Série de Reimann.md",
     "Média/Thevenin Norton.png",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",

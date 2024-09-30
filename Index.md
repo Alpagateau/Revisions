@@ -1,4 +1,4 @@
-## Bienvenu sur coursdeprépa.md
+## Bienvenu sur MNadaud
 
 Ce site a pour objectif de mettre en commun un certain nombre de fiches de révisions, de preuves, et d'explications faites par des élèves de prépa, pour des élèves de prépa. 
 
@@ -19,6 +19,6 @@ Merci, et bonne révisions
 
 Martin Nadaud
 
----
-
 Modifié le 19 09 2024 
+
+---
