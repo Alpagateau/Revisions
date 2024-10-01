@@ -8,6 +8,7 @@ La navigation sur le site se fait principalement par le biais de différents som
 - [[Sommaire Chimie|Chimie]]
 - [[Sommaire Physiques|Physiques]]
 - [[Sommaire Maths|Maths]]
+- [[Sommaire Informatique|Informatique]]
 
 Il est important de savoir que ce site est fait pour émuler le moteur graphique d'[Obsidian](https://Obsidian.md). Il a été créé par un seul développeur (moi même) et peut donc ne pas transmettre les fiches comme elles sont à l'origine. Il est très conseillé de se référer directement aux fiches obsidian ([ici](https://github.com/Alpagateau/Revisions) ou dans l'onglet source.). Je tiens aussi a appuyer le fait que, de par mes centre d'intérêts, certaines fiches contiendrons des extraits de pseudo-code, souvent en syntaxe python, car je trouve cela intéressant pour comprendre certaines méthodes de calcule/travail. 
 
@@ -19,4 +20,6 @@ Merci, et bonne révisions
 
 Martin Nadaud
 
-Modifié le 19 09 2024 
+---
+
+Modifié le 01 10 2024 

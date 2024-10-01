@@ -14,9 +14,22 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "754876bd914d5966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/variables et opérations.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -182,15 +195,19 @@
   },
   "active": "bb31f8193bd8abd1",
   "lastOpenFiles": [
-    "Cours/Intégration discrète.md",
-    "Sommaire Maths.md",
-    "README.md",
     "Index.md",
+    "Cours/variables et opérations.md",
+    "Sommaire Informatique.md",
     "index.md",
-    "Valeur propre.md",
-    "Sommaire Chimie.md",
-    "Sommaire Physiques.md",
     "Informatique.md",
+    "Cours/lancer un programme.md",
+    "Sommaire Maths.md",
+    "Sommaire Chimie.md",
+    "README.md",
+    "Cours/Valeur propre.md",
+    "Valeur propre.md",
+    "Cours/Intégration discrète.md",
+    "Sommaire Physiques.md",
     "Cours/Calcul Polynomial.md",
     "Cours/Reduction d'endomorphisme.md",
     "Cours/Nabla.md",
@@ -200,16 +217,12 @@
     "Cours/Laplacien.md",
     "Cours/Divergence.md",
     "Cours/Systèmes de coordonnées.md",
-    "Cours/Valeur propre.md",
     "Média/HarmonicOsc1.png",
     "Média/Gradient2.svg.png",
     "Nabla.md",
     "Cours/Champs de vecteurs.md",
     "Cours/Ondes acoustiques.md",
     "Cours/Suites numériques.md",
-    "Cours/Théorème des gendarmes.md",
-    "Cours/Ensembles.md",
-    "Cours/Régime apériodique.md",
     "Média/Thevenin Norton.png",
     "Média/wagons.png",
     "Média/Pasted image 20240911203231.png",
